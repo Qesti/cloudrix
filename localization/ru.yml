@@ -5,6 +5,7 @@ JOIN_TO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
 ERROR_COMMAND: 'Ошибка, используйте §7%s'
 PLAYER_NOT_FOUND: 'Ошибка, игрок %s §rне найден'
 GROUP_NOT_FOUND: 'Ошибка, группа %s §rне найдена'
+GROUP_CHANGED: 'Игроку %s §rвыдана привилегия %s'
 
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
