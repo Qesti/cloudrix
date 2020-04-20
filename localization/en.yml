@@ -1,6 +1,6 @@
 LANGUAGE_CHANGE: 'You changed the language to §c%s'
 
-JOIN_TO_LOBBY: ''
+JOIN_TO_LOBBY: ' §a▸ §r%s §6joined to server'
 
 BOARD_GROUP: 'Rank: '
 BOARD_MONEY: 'Money: §e'
