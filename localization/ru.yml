@@ -1,3 +1,5 @@
+LANGUAGE_CHANGE: 'Вы изменили язык на §c%s'
+
 JOIN_TO_LOBBY: ''
 
 BOARD_GROUP: 'Ваш ранг: '
