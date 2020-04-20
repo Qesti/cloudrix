@@ -1,1 +1,5 @@
 JOIN_TO_LOBBY: ''
+
+BOARD_GROUP: 'Ваш ранг: '
+BOARD_MONEY: 'Монет: §e'
+BOARD_ONLINE: 'Загальний онлайн: §a'
