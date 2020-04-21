@@ -1,14 +1,24 @@
 LANGUAGE_CHANGE: 'Вы изменили язык на §c%s'
 
-JOIN_TO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
+JANUARY: 'Январь'
+FEBRUARY: 'Февраль'
+MARCH: 'Март'
+APRIL: 'Апрель'
+MAY: 'Май'
+JUNE: 'Июнь'
+JULY: 'Июль'
+AUGUST: 'Август'
+SEPTEMBER: 'Сентябрь'
+OCTOBER: 'Октябрь'
+NOVEMBER: 'Ноябрь'
+DECEMBER: 'Декабрь'
 
-ERROR_COMMAND: 'Ошибка, используйте §7%s'
-PLAYER_NOT_FOUND: 'Ошибка, игрок %s §rне найден'
-GROUP_NOT_FOUND: 'Ошибка, группа %s §rне найдена'
-GROUP_CHANGED: 'Игроку %s §rвыдана привилегия %s'
+JOIN_TO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
 
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
 BOARD_ONLINE: 'Общий онлайн: §a'
+
+TELEPORTING: 'Телепортируем, не двигайтесь §a%s §f%s'
 
 BOARD_TITLE: '§6§lCLOUDRIX'
