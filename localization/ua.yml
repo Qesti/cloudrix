@@ -6,8 +6,6 @@ JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
 YOU_ARE_NOT_STEPASHKA: 'Ви не §bстепашка'
 YOU_ARE_STEPASHKA: 'Ви §bстепашка'
 
-TELEPORTING: 'Телепортуємо, не рухайтесь §a%s §f%s'
-
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
 BOARD_ONLINE: 'Загальний онлайн: §a'
