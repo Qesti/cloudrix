@@ -2,6 +2,8 @@ LANGUAGE_CHANGE: 'Ви змінили мову на §c%s'
 
 JOIN_TO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
 
+TELEPORTING: 'Телепортуємо, не рухайтесь §a%s §f%s'
+
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
 BOARD_ONLINE: 'Загальний онлайн: §a'
