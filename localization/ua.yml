@@ -1,7 +1,7 @@
 LANGUAGE_CHANGE: 'Ви змінили мову на §a%s'
 LANGUAGE_USING: 'Ви використовуєте §a%s §rмову'
 
-JOIN_TO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
+JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
 
 YOU_ARE_NOT_STEPASHKA: 'Ви не §bстепашка'
 YOU_ARE_STEPASHKA: 'Ви §bстепашка'
