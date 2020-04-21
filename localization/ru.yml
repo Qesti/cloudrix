@@ -1,5 +1,5 @@
 LANGUAGE_CHANGE: 'Вы изменили язык на §a%s'
-LANGUAGE_USING: 'У вас установлен язык - §a%s'
+LANGUAGE_USING: 'Вы используете §a%s §rязык'
 
 JANUARY: 'Январь'
 FEBRUARY: 'Февраль'
