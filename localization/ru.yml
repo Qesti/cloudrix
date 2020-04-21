@@ -16,9 +16,6 @@ DECEMBER: 'Декабрь'
 
 JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
 
-YOU_ARE_NOT_STEPASHKA: 'Вы не §bстепашка'
-YOU_ARE_STEPASHKA: 'Вы §bстепашка'
-
 TIME_SECOND_1:
 - 'секунд'
 - 'у'
