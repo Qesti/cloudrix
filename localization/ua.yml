@@ -1,10 +1,20 @@
 LANGUAGE_CHANGE: 'Ви змінили мову на §a%s'
 LANGUAGE_USING: 'Ви використовуєте §a%s §rмову'
 
-JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
+JANUARY: 'Січеь'
+FEBRUARY: 'Лютий'
+MARCH: 'Березень'
+APRIL: 'Квітень'
+MAY: 'Травень'
+JUNE: 'Червень'
+JULY: 'Липень'
+AUGUST: 'Серпень'
+SEPTEMBER: 'Вересень'
+OCTOBER: 'Жовтень'
+NOVEMBER: 'Листопад'
+DECEMBER: 'Грудень'
 
-YOU_ARE_NOT_STEPASHKA: 'Ви не §bстепашка'
-YOU_ARE_STEPASHKA: 'Ви §bстепашка'
+JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
 
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
