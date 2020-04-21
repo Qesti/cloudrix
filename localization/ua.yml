@@ -1,4 +1,5 @@
 LANGUAGE_CHANGE: 'Ви змінили мову на §a%s'
+LANGUAGE_USING: 'Ви використовуєте §a%s §rмову'
 
 JOIN_TO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
 
