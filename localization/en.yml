@@ -1,4 +1,5 @@
 LANGUAGE_CHANGE: 'You changed the language to §a%s'
+LANGUAGE_USING: 'Do you use §a%s §rlanguage'
 
 JOIN_TO_LOBBY: ' §a▸ §r%s §6joined to server'
 
