@@ -22,6 +22,6 @@ TIME_SECOND_1:
 - 'ы'
 - ''
 
-BOARD_GROUP: 'Ваш ранг: '
-BOARD_MONEY: 'Монет: §e'
-BOARD_ONLINE: 'Общий онлайн: §a'
+BOARD_GROUP: 'Ваш ранг'
+BOARD_MONEY: 'Монет'
+BOARD_ONLINE: 'Общий онлайн'

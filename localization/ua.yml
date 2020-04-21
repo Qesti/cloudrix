@@ -16,6 +16,12 @@ DECEMBER: 'Грудень'
 
 JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зайшов на сервер'
 
-BOARD_GROUP: 'Ваш ранг: '
-BOARD_MONEY: 'Монет: §e'
-BOARD_ONLINE: 'Загальний онлайн: §a'
+TIME_SECOND_1:
+- 'секунд'
+- 'у'
+- 'и'
+- ''
+
+BOARD_GROUP: 'Ваш ранг'
+BOARD_MONEY: 'Монет'
+BOARD_ONLINE: 'Загальний онлайн'
