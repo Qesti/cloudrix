@@ -13,7 +13,12 @@ OCTOBER: 'Октябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
-JOIN_TO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
+JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
+
+HOLO_SKYBLOCK_START2:
+- '§fДля начала игры на режиме "§3СкайБлок§f"'
+- '§fнажми прямо на §dNPC§f, после чего'
+- '§fу тебя появится §aсвой собственный остров!'
 
 YOU_ARE_NOT_STEPASHKA: 'Вы не §bстепашка'
 YOU_ARE_STEPASHKA: 'Вы §bстепашка'
