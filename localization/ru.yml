@@ -16,11 +16,6 @@ DECEMBER: 'Декабрь'
 
 JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
 
-HOLO_SKYBLOCK_START2:
-- '§fДля начала игры на режиме "§3СкайБлок§f"'
-- '§fнажми прямо на §dNPC§f, после чего'
-- '§fу тебя появится §aсвой собственный остров!'
-
 YOU_ARE_NOT_STEPASHKA: 'Вы не §bстепашка'
 YOU_ARE_STEPASHKA: 'Вы §bстепашка'
 
@@ -33,7 +28,3 @@ TIME_SECOND_1:
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
 BOARD_ONLINE: 'Общий онлайн: §a'
-
-TELEPORTING: 'Телепортируем, не двигайтесь §a%s §f%s'
-
-BOARD_TITLE: '§6§lCLOUDRIX'
