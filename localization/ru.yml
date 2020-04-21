@@ -15,6 +15,12 @@ DECEMBER: 'Декабрь'
 
 JOIN_TO_LOBBY: '§a▸ §r%s §6зашёл на сервер'
 
+TIME_SECOND_1:
+- 'секунд'
+- 'у'
+- 'ы'
+- ''
+
 BOARD_GROUP: 'Ваш ранг: '
 BOARD_MONEY: 'Монет: §e'
 BOARD_ONLINE: 'Общий онлайн: §a'
