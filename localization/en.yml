@@ -4,6 +4,9 @@ JOIN_TO_LOBBY: ' §a▸ §r%s §6joined to server'
 
 TELEPORTING: 'Teleportating, dont move §a%s §f%s'
 
+YOU_ARE_NOT_STEPASHKA: 'You are not §bstepashka'
+YOU_ARE_STEPASHKA: 'You are §bstepashka'
+
 BOARD_GROUP: 'Rank: '
 BOARD_MONEY: 'Money: §e'
 BOARD_ONLINE: 'Total online: §a'
