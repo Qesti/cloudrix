@@ -3,8 +3,6 @@ LANGUAGE_USING: 'Do you use §a%s §rlanguage'
 
 JOIN_PLAYER_LO_LOBBY: ' §a▸ §r%s §6joined to server'
 
-TELEPORTING: 'Teleportating, dont move §a%s §f%s'
-
 YOU_ARE_NOT_STEPASHKA: 'You are not §bstepashka'
 YOU_ARE_STEPASHKA: 'You are §bstepashka'
 
