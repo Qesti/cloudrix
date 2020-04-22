@@ -14,7 +14,23 @@ OCTOBER: 'October'
 NOVEMBER: 'November'
 DECEMBER: 'December'
 
+ERROR_COMMAND: 'Error, use %s'
+
+WHITELIST_ADD: 'Player %s added to list ignored whitelist'
+WHITELIST_REMOVE: 'Player %s §rremoved from list ignored whitelist'
+WHITELIST_LIST_NULL: 'Unfortunately, there is no one here :('
+WHITELIST_LIST: 'Total whitelist §a%s §r%s'
+
+NO_PERMS: 'You do not have permission'
+NO_PERMS_GROUP: 'You do not have permission, buy %s or higher'
+
 JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6joined the server'
+
+PLAYERS_1:
+- 'player'
+- ''
+- 's'
+- 's'
 
 TIME_SECOND_1:
 - 'second'
