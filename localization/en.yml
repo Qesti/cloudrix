@@ -24,6 +24,8 @@ WHITELIST_LIST: 'Total whitelist §a%s §r%s'
 NO_PERMS: 'You do not have permission'
 NO_PERMS_GROUP: 'You do not have permission, buy %s or higher'
 
+COOLDOWN: '§6Hider §8» §rPlease wait §a%s §rbefore next use'
+
 JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6joined the server'
 
 PLAYERS_1:
