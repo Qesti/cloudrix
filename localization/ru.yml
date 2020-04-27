@@ -68,6 +68,10 @@ TIME_DAY_1:
 - 'ня'
 - 'ней'
 
+BOSS_BAR_LOBBY:
+- '§fкэнди гей'
+- '§rПОКУПКА ПРИВИЛЕГИЙ НА САЙТЕ - §a§lCLOUDRIX.RU'
+
 BOARD_GROUP: 'Ваш ранг'
 BOARD_MONEY: 'Монет'
 BOARD_ONLINE: 'Общий онлайн'
