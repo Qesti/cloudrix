@@ -16,14 +16,6 @@ DECEMBER: 'Декабрь'
 
 ERROR_COMMAND: 'Ошибка, используйте %s'
 
-WHITELIST_ADD: 'Игрок %s §rдобавлен в список игнорируемых белым списком'
-WHITELIST_REMOVE: 'Игрок %s §rудален из списка игнорируемых белым списка'
-WHITELIST_LIST_NULL: 'К сожалению здесь никого нет :('
-WHITELIST_LIST: 'Всего в вайтлисте §a%s §r%s'
-
-JOIN_GAMER_ARENA: '%s§f зашел в игру (§a%s§f/§a%s§f)'
-QUIT_GAMER_ARENA: '%s§f покинул игру (§c%s§f/§a%s§f)'
-
 COOLDOWN: 'Пожалуйста, подождите §a%s §rперед следующим использованием'
 
 NO_PERMS: 'У вас недостаточно прав'
@@ -67,10 +59,6 @@ TIME_DAY_1:
 - 'ень'
 - 'ня'
 - 'ней'
-
-BOSS_BAR_LOBBY:
-- '§fкэнди гей'
-- '§rПОКУПКА ПРИВИЛЕГИЙ НА САЙТЕ - §a§lCLOUDRIX.RU'
 
 BOARD_GROUP: 'Ваш ранг'
 BOARD_MONEY: 'Монет'
