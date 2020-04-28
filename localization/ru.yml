@@ -76,5 +76,11 @@ SB_ISLAND_NOT_FOUND2: 'Используйте - §7/is create'
 SB_BOARD_STATISTIC: 'Статистика'
 
 #банджи
-WHERE: 'Вы находитесь на сервере §a%s'
 ALERT_FORMAT: '/alert <сообщение>'
+STAFFCHAT_FORMAT: '/staffchat <сообщение>'
+DONATECHAT_FORMAT: '/donatechat <сообщение>'
+
+WHERE_RESULT: 'Вы находитесь на сервере §a%s'
+
+STAFFCHAT_MSG: '§eЧат персонала §8| §f%s §8» §f%s'
+DONATECHAT_MSG: '§6Чат донатеров §8| §f%s §8» §7%s'
