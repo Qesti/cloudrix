@@ -1,5 +1,4 @@
-LANGUAGE_CHANGE: 'You changed the language to §a%s'
-LANGUAGE_USING: 'You are using §a%s §rlanguage'
+LANGUAGE_CHANGE: 'You changed the language to §b%s'
 
 JANUARY: 'January'
 FEBRUARY: 'February'
@@ -15,46 +14,56 @@ NOVEMBER: 'November'
 DECEMBER: 'December'
 
 ERROR_COMMAND: 'Error, use %s'
-NO_PERMS: 'You do not have permission'
-NO_PERMS_GROUP: 'You do not have permission, buy %s or higher'
 
 COOLDOWN: 'Please wait §b%s §rbefore next use'
 
-JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6joined the server'
+NO_PERMS: 'You do not have permission'
+NO_PERMS_GROUP: 'You do not have permission, purchase %s §ror higher'
+
+JOIN_PLAYER_LO_LOBBY: ' §a▸ §r%s §6has joined to the server'
 
 PLAYERS_1:
-- 'player'
-- ''
-- 's'
-- 's'
-
+  - 'player'
+  - 's'
+  - 's'
+  - 's'
 TIME_SECOND_1:
-- 'second'
-- 's'
-- ''
-- ''
+  - 'second'
+  - 's'
+  - 's'
+  - 's'
+TIME_HOURS_1:
+  - 'hour'
+  - ''
+  - 's'
+  - 's'
+TIME_MINUTES_1:
+  - 'minute'
+  - ''
+  - 's'
+  - 's'
+TIME_DAY_1:
+  - 'd'
+  - 'ay'
+  - 'ays'
+  - 'ays'
+TIME_SECOND_2:
+  - 'second'
+  - ''
+  - 's'
+  - 's'
 
-BOARD_GROUP: 'Your rank'
+BOARD_GROUP: 'Rank'
 BOARD_MONEY: 'Coins'
 BOARD_ONLINE: 'Total online'
-SB_BOARD_ROLE: 'Role'
-SB_BOARD_SIZE: 'Size'
-SB_BOARD_LEVEL: 'Level'
-SB_BOARD_USER_SIZE: 'Participants'
-SB_BOARD_INFO: 'Information'
-SB_BOARD_YOUR_ISLAND: 'Your island'
-SB_BOARD_KILLS: 'Kills'
-SB_BOARD_DEATHS: 'Deaths'
-SB_ISLAND_NOT_FOUND: 'Island not found!'
-SB_ISLAND_NOT_FOUND2: 'Use - §7/is create'
-SB_BOARD_STATISTIC: 'Statistics'
 
-#банджи
+#Bungee
 ALERT_FORMAT: '/alert <message>'
 STAFFCHAT_FORMAT: '/staffchat <message>'
 DONATECHAT_FORMAT: '/donatechat <message>'
 
-WHERE_RESULT: 'You are on the server §a%s'
+WHERE_RESULT: 'You are on the server §b%s'
+FIND_RESULT: 'Player %s §rnow at the server §b%s'
 
 STAFFCHAT_MSG: '§9Staff chat §8| §f%s §8» §f%s'
 DONATECHAT_MSG: '§bDonate chat §8| §f%s §8» §7%s'
