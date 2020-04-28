@@ -65,7 +65,7 @@ BOARD_GROUP: 'Ваш ранг'
 BOARD_MONEY: 'Монет'
 BOARD_ONLINE: 'Общий онлайн'
 
-#Bngee
+#Bungee
 ALERT_FORMAT: '/alert <сообщение>'
 STAFFCHAT_FORMAT: '/staffchat <сообщение>'
 DONATECHAT_FORMAT: '/donatechat <сообщение>'
