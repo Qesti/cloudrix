@@ -15,16 +15,10 @@ NOVEMBER: 'November'
 DECEMBER: 'December'
 
 ERROR_COMMAND: 'Error, use %s'
-
-WHITELIST_ADD: 'Player %s added to list ignored whitelist'
-WHITELIST_REMOVE: 'Player %s §rremoved from list ignored whitelist'
-WHITELIST_LIST_NULL: 'Unfortunately, there is no one here :('
-WHITELIST_LIST: 'Total whitelist §a%s §r%s'
-
 NO_PERMS: 'You do not have permission'
 NO_PERMS_GROUP: 'You do not have permission, buy %s or higher'
 
-COOLDOWN: 'Please wait §a%s §rbefore next use'
+COOLDOWN: 'Please wait §b%s §rbefore next use'
 
 JOIN_PLAYER_LO_LOBBY: '§a▸ §r%s §6joined the server'
 
@@ -54,3 +48,13 @@ SB_BOARD_DEATHS: 'Deaths'
 SB_ISLAND_NOT_FOUND: 'Island not found!'
 SB_ISLAND_NOT_FOUND2: 'Use - §7/is create'
 SB_BOARD_STATISTIC: 'Statistics'
+
+#банджи
+ALERT_FORMAT: '/alert <message>'
+STAFFCHAT_FORMAT: '/staffchat <message>'
+DONATECHAT_FORMAT: '/donatechat <message>'
+
+WHERE_RESULT: 'You are on the server §a%s'
+
+STAFFCHAT_MSG: '§9Staff chat §8| §f%s §8» §f%s'
+DONATECHAT_MSG: '§bDonate chat §8| §f%s §8» §7%s'
