@@ -75,6 +75,17 @@ SB_ISLAND_NOT_FOUND: 'Остров не найден!'
 SB_ISLAND_NOT_FOUND2: 'Используйте - §7/is create'
 SB_BOARD_STATISTIC: 'Статистика'
 
+TAB_HEADER:
+- '§b§lCloudrix'
+- ''
+- '§fTotal online: §b%s'
+- '§fOnline-shop: §bcloudrix.ru'
+- ''
+TAB_FOOTER: 
+- ''
+- '§fNow you are at:'
+- '§b%s'
+
 #банджи
 ALERT_FORMAT: '/alert <сообщение>'
 STAFFCHAT_FORMAT: '/staffchat <сообщение>'
