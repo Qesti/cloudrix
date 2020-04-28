@@ -82,5 +82,5 @@ DONATECHAT_FORMAT: '/donatechat <сообщение>'
 
 WHERE_RESULT: 'Вы находитесь на сервере §a%s'
 
-STAFFCHAT_MSG: '§eЧат персонала §8| §f%s §8» §f%s'
-DONATECHAT_MSG: '§6Чат донатеров §8| §f%s §8» §7%s'
+STAFFCHAT_MSG: '§9Чат персонала §8| §f%s §8» §f%s'
+DONATECHAT_MSG: '§bЧат донатеров §8| §f%s §8» §7%s'
