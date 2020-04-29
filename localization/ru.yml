@@ -29,7 +29,6 @@ PLAYERS_1:
   - ''
   - 'а'
   - 'ов'
-
 TIME_SECOND_1:
   - 'секунд'
   - 'у'
@@ -60,6 +59,18 @@ TIME_DAY_1:
   - 'ень'
   - 'ня'
   - 'ней'
+REPORTS_1:
+  - 'жалоб'
+  - 'а'
+  - 'ы'
+  - ''
+
+CANT_REPORT_YOURSELF: 'Вы не можете подать жалобу на самого себя'
+LITTLE_REASON_REPORT: 'Укажите длиннее причину жалобы!'
+REPORT_SENT: 'Вы отправили жалобу на игрока §7%s §rпо причине: §b%s'
+TOO_MANY_REPORTS: 'На игрока §7%s §rпоступило уже §b%s §r%s!'
+LIMIT_REPORTS: 'У игрока §7%s §rпривышен лимит жалоб!'
+REPORT_PLAYER_STARTED_SPECTATE: 'Вы отправились следить за §7%s'
 
 BOARD_GROUP: 'Ваш ранг'
 BOARD_MONEY: 'Монет'
@@ -92,6 +103,7 @@ REPLY_FORMAT: '/reply <сообщение>'
 MSG_FORMAT: '/msg <ник игрока> <сообщение>'
 FIND_FORMAT: '/find <ник игрока>'
 IGNORE_FORMAT: '/ignore <ник игрока>'
+REPORT_FORMAT: '/report <ник игрока> <причина>'
 
 WHERE_RESULT: 'Вы находитесь на сервере §b%s'
 STP_RESULT: 'Происходит телепортация на сервер %s §7(%s)'
