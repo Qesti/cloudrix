@@ -58,7 +58,8 @@ BOARD_GROUP: 'Rank'
 BOARD_MONEY: 'Coins'
 BOARD_ONLINE: 'Total online'
 
-#Bungee
+PING: 'Your ping §b%s §rms'
+
 ALERT_FORMAT: '/alert <message>'
 STAFFCHAT_FORMAT: '/staffchat <message>'
 DONATECHAT_FORMAT: '/donatechat <message>'
