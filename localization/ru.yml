@@ -76,6 +76,10 @@ BOARD_GROUP: 'Ваш ранг'
 BOARD_MONEY: 'Монет'
 BOARD_ONLINE: 'Общий онлайн'
 
+REWARD_SUCCESS: 'Вы успешно забрали §b%s'
+REWARD_NOT_AVAILABLE: 'Ошибка, данная награда Вам недоступна'
+
+
 PING: 'Ваш пинг §b%s §rms'
 
 YOU_CANT_CONTACT_HIM: 'Ошибка, игрок %s §rигнорирует вас'
