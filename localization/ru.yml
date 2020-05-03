@@ -88,6 +88,8 @@ CRASH_PLAYER: 'Вы крашнули игрока %s'
 LEVEL_COMMAND_1: 'У вас §b%s §rуровень'
 LEVEL_COMMAND_2: 'До следующего уровня необходимо §b%s XP'
 
+LIST_CMD: 'На сервере §b%s §r%s: %s'
+
 PING: 'Ваш пинг §b%s §rms'
 
 YOU_CANT_CONTACT_HIM: 'Ошибка, игрок %s §rигнорирует вас'
