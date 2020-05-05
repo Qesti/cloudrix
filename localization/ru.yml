@@ -82,6 +82,14 @@ FRIEND_ALREADY_FRIENDS: 'Вы уже являетесь друзьями!'
 FRIEND_INVITE_SENT: 'Запрос в друзья отправлен игроку %s'
 FRIEND_ALREADY_SENT_REQUEST: 'Вы уже отправляли запрос данному игроку...'
 FRIEND_REQUEST_DISABLED: 'Игрок %s §rотключил запросы на добавление в друзья'
+FRIEND_AVAILABLE_REQUEST: 'У вас есть §b%s §r%s на добавление в друзья!'
+FRIEND_INVITE_TEXT: '%s §rпредлагает вам дружить'
+
+ACCEPT: '§a§l[ПРИНЯТЬ]'
+CANCEL: '§c§l[ОТКЛОНИТЬ]'
+
+ACCEPT_HOVER: '§fНажмите, чтобы принять запрос'
+CANCEL_HOVER: '§fНажмите, чтобы отклонить запрос'
 
 LVL_UP: '§a§l§kX§r §6§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
 NEW_LVL: '§fВы достигли §d%s§f уровня!'
