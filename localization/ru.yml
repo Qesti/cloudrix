@@ -13,6 +13,8 @@ OCTOBER: 'Октябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
+ETERNITY: 'вечность'
+
 PLAYER_NOT_FOUND: 'Ошибка, игрок %s §rне найден'
 SERVER_NOT_FOUND: 'Сервер §7%s §rне найден'
 ERROR_COMMAND: 'Ошибка, используйте %s'
