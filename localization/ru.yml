@@ -130,6 +130,13 @@ ITEMS_GUI_BACK_NAME: '§cНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
 
+PAGE_ARROW_RIGHT: '§bСледующая страница'
+PAGE_ARROW_LEFT: '§bПредыдущая страница'
+PAGE_ARROW_LORE:
+- '§7Нажмите для перехода'
+- '§7на %s страницу'
+
+
 ALERT_FORMAT: '/alert <сообщение>'
 STAFFCHAT_FORMAT: '/staffchat <сообщение>'
 DONATECHAT_FORMAT: '/donatechat <сообщение>'
