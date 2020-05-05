@@ -71,11 +71,17 @@ REPORT_SENT: 'Вы отправили жалобу на игрока §7%s §rп
 TOO_MANY_REPORTS: 'На игрока §7%s §rпоступило уже §b%s §r%s!'
 LIMIT_REPORTS: 'У игрока §7%s §rпривышен лимит жалоб!'
 REPORT_PLAYER_STARTED_SPECTATE: 'Вы отправились следить за §7%s'
-YOU_CANT_SENT_REPORT: 'Вы не можете отпраить жалобу на данного игрока!'
+YOU_CANT_SENT_REPORT: 'Вы не можете отправить жалобу на данного игрока!'
 
 BOARD_GROUP: 'Ваш ранг'
 BOARD_MONEY: 'Монет'
 BOARD_ONLINE: 'Общий онлайн'
+
+FRIEND_YOURSELF_AS_FRIEND: 'Вы не можете отправить заявку в друзья самому себе'
+FRIEND_ALREADY_FRIENDS: 'Вы уже являетесь друзьями!'
+FRIEND_INVITE_SENT: 'Запрос в друзья отправлен игроку %s'
+FRIEND_ALREADY_SENT_REQUEST: 'Вы уже отправляли запрос данному игроку...'
+FRIEND_REQUEST_DISABLED: 'Игрок %s §rотключил запросы на добавление в друзья'
 
 LVL_UP: '§a§l§kX§r §6§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
 NEW_LVL: '§fВы достигли §d%s§f уровня!'
