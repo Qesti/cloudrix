@@ -89,6 +89,8 @@ FRIEND_ALREADY_SENT_REQUEST: 'Вы уже отправляли запрос да
 FRIEND_REQUEST_DISABLED: 'Игрок %s §rотключил запросы на добавление в друзья'
 FRIEND_AVAILABLE_REQUEST: 'У вас есть §b%s §r%s на добавление в друзья!'
 FRIEND_INVITE_TEXT: '%s §rпредлагает вам дружить'
+FRIEND_JOINED: 'Ваш друг %s §rзашел на сервер'
+FRIEND_JOINED_HOVER: '§fНажмите, чтобы написать %s §rсообщение'
 
 ACCEPT: '§a§l[ПРИНЯТЬ]'
 CANCEL: '§c§l[ОТКЛОНИТЬ]'
