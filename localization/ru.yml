@@ -73,6 +73,8 @@ LIMIT_REPORTS: 'У игрока §7%s §rпривышен лимит жалоб!
 REPORT_PLAYER_STARTED_SPECTATE: 'Вы отправились следить за §7%s'
 YOU_CANT_SENT_REPORT: 'Вы не можете отправить жалобу на данного игрока!'
 
+BOARD_INFORMATION: 'Информация'
+BOARD_STATISTIC: 'Статистика'
 BOARD_GROUP: 'Ранг'
 BOARD_MONEY: 'Клауды'
 BOARD_LEVEL: 'Уровень'

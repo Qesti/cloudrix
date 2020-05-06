@@ -54,6 +54,8 @@ TIME_SECOND_2:
   - 's'
   - 's'
 
+BOARD_INFORMATION: 'Information'
+BOARD_STATISTIC: 'Statistic'
 BOARD_GROUP: 'Rank'
 BOARD_MONEY: 'Clouds'
 BOARD_LEVEL: 'Level'
