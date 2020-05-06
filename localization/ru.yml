@@ -76,7 +76,7 @@ YOU_CANT_SENT_REPORT: 'Вы не можете отправить жалобу н
 BOARD_INFORMATION: 'Информация'
 BOARD_STATISTIC: 'Статистика'
 BOARD_GROUP: 'Ранг'
-BOARD_MONEY: 'Клауды'
+BOARD_BALANCE: 'Клауды'
 BOARD_LEVEL: 'Уровень'
 BOARD_LEVEL_PROGRESS: 'Прогресс'
 BOARD_TOTAL_ONLINE: 'Онлайн проекта'
