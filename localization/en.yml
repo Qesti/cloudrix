@@ -59,7 +59,7 @@ BOARD_STATISTIC: 'Statistic'
 BOARD_GROUP: 'Rank'
 BOARD_BALANCE: 'Clouds'
 BOARD_LEVEL: 'Level'
-BOARD_LEVEL_PROGRESS: 'Progress'
+BOARD_PROGRESS: 'Progress'
 BOARD_TOTAL_ONLINE: 'Total online'
 
 PING: 'Your ping §b%s §rms'

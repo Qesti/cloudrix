@@ -78,7 +78,7 @@ BOARD_STATISTIC: 'Статистика'
 BOARD_GROUP: 'Ранг'
 BOARD_BALANCE: 'Клауды'
 BOARD_LEVEL: 'Уровень'
-BOARD_LEVEL_PROGRESS: 'Прогресс'
+BOARD_PROGRESS: 'Прогресс'
 BOARD_TOTAL_ONLINE: 'Онлайн проекта'
 
 FRIEND_YOURSELF_AS_FRIEND: 'Вы не можете отправить заявку в друзья самому себе'
