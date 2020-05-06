@@ -84,5 +84,7 @@ SENDING_ALL_PLAYERS_TO_SERVER: 'All §b%s §r%s teleport to server §b%s'
 SENDING_PLAYER_TO_SERVER: 'Player %s §rhas been sucessfullty teleported to the server §b%s'
 YOU_HAVE_BEEN_SENT: '%s §rhas teleported you to the server §b%s'
 
+KICKED_FROM_SERVER: 'You were kicked from server §b%s §rby cause: %s'
+
 STAFFCHAT_MSG: '§9Staff chat §8| §f%s §8» §f%s'
 DONATECHAT_MSG: '§bDonate chat §8| §f%s §8» §7%s'
