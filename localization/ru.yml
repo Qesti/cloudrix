@@ -13,8 +13,6 @@ OCTOBER: 'Октябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
-ETERNITY: 'вечность'
-
 PLAYER_NOT_FOUND: 'Ошибка, игрок %s §rне найден'
 SERVER_NOT_FOUND: 'Сервер §7%s §rне найден'
 ERROR_COMMAND: 'Ошибка, используйте %s'
@@ -66,11 +64,6 @@ REPORTS_1:
   - 'а'
   - 'ы'
   - ''
-REQUESTS_1:
-  - 'запрос'
-  - 'а'
-  - 'ов'
-  - ''
 
 CANT_REPORT_YOURSELF: 'Вы не можете подать жалобу на самого себя'
 LITTLE_REASON_REPORT: 'Укажите длиннее причину жалобы!'
@@ -80,9 +73,11 @@ LIMIT_REPORTS: 'У игрока §7%s §rпривышен лимит жалоб!
 REPORT_PLAYER_STARTED_SPECTATE: 'Вы отправились следить за §7%s'
 YOU_CANT_SENT_REPORT: 'Вы не можете отправить жалобу на данного игрока!'
 
-BOARD_GROUP: 'Ваш ранг'
-BOARD_MONEY: 'Монет'
-BOARD_ONLINE: 'Общий онлайн'
+BOARD_GROUP: 'Ранг'
+BOARD_MONEY: 'Клауды'
+BOARD_LEVEL: 'Уровень'
+BOARD_LEVEL_PROGRESS: 'Прогресс'
+BOARD_TOTAL_ONLINE: 'Онлайн проекта'
 
 FRIEND_YOURSELF_AS_FRIEND: 'Вы не можете отправить заявку в друзья самому себе'
 FRIEND_ALREADY_FRIENDS: 'Вы уже являетесь друзьями!'
@@ -91,11 +86,9 @@ FRIEND_ALREADY_SENT_REQUEST: 'Вы уже отправляли запрос да
 FRIEND_REQUEST_DISABLED: 'Игрок %s §rотключил запросы на добавление в друзья'
 FRIEND_AVAILABLE_REQUEST: 'У вас есть §b%s §r%s на добавление в друзья!'
 FRIEND_INVITE_TEXT: '%s §rпредлагает вам дружить'
-FRIEND_JOINED: 'Ваш друг %s §rзашел на сервер'
-FRIEND_JOINED_HOVER: '§fНажмите, чтобы написать %s §rсообщение'
 
-ACCEPT: '§a§l[ПРИНЯТЬ]'
-CANCEL: '§c§l[ОТКЛОНИТЬ]'
+ACCEPT: '§a[ПРИНЯТЬ]'
+CANCEL: '§c[ОТКЛОНИТЬ]'
 
 ACCEPT_HOVER: '§fНажмите, чтобы принять запрос'
 CANCEL_HOVER: '§fНажмите, чтобы отклонить запрос'
@@ -131,13 +124,6 @@ ONLINE_ALL_PLAYERS_ONLINE: 'Общий онлайн проекта §b%s §r%s'
 ITEMS_GUI_BACK_NAME: '§cНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
-
-PAGE_ARROW_RIGHT: '§bСледующая страница'
-PAGE_ARROW_LEFT: '§bПредыдущая страница'
-PAGE_ARROW_LORE:
-- '§7Нажмите для перехода'
-- '§7на %s страницу'
-
 
 ALERT_FORMAT: '/alert <сообщение>'
 STAFFCHAT_FORMAT: '/staffchat <сообщение>'
