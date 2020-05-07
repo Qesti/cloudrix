@@ -107,6 +107,7 @@ FRIEND_PLAYER_REMOVED_YOU: 'Игрок %s §rудалил Вас из друзе
 FRIEND_YOU_REJECTED_REQUEST: 'Вы отклонили запрос в друзья от игрока %s'
 FRIENDS_REQUEST_REJECTED: 'Игрок %s §rотклонил запрос в друзья'
 FRIEND_LIMIT_REACHED: 'Вы достигли максимального количества друзей!'
+FRIEND_NOT_ARE_FRIEND: 'Вы не являетесь друзьями с %s'
 FRIEND_NEW_FRIEND: 'Поздравляем! Вы стали друзьями с игроком %s'
 FRIEND_INVITE_TEXT: '%s §rпредлагает вам дружить'
 FRIEND_JOINED: 'Ваш друг %s §rзашел на сервер'
