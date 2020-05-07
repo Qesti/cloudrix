@@ -101,6 +101,7 @@ FRIEND_ALREADY_SENT_REQUEST: 'Вы уже отправляли запрос да
 FRIEND_REQUEST_DISABLED: 'Игрок %s §rотключил запросы на добавление в друзья'
 FRIEND_AVAILABLE_REQUEST: 'У вас есть §b%s §r%s на добавление в друзья!'
 FRIEND_NO_NEW_REQUEST_FROM: 'У вас нет запроса в друзья от игрока %s'
+FRIEND_NO_NEW_REQUEST_FROM: 'У вас нет запроса на добавление в друзья от игрока %s§r. §rИспользуйте запрос §b/friend requests§r, чтобы посмотреть, не затерялась ли там заявку данного игрока..'
 FRIEND_NO_NEW_REQUEST: 'У вас нет новых запросов в друзья!'
 FRIEND_PLAYER_REMOVED: 'Игрок %s §rбыл удален из вашего списка друзей'
 FRIEND_PLAYER_REMOVED_YOU: 'Игрок %s §rудалил Вас из друзей'
