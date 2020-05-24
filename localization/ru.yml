@@ -67,7 +67,23 @@ REPORTS_1:
   - ''
 
 DISCORD_CONFIRM_PLS: 'Пожалуйста, отправьте это сообщение нашему боту §b%s'
+DISCORD_BOT_VERIFIED: 'Ваша аккаунт %s был успешно связан с дискордом %s'
+DISCORD_INVALID: 'Вы ввели неправильный код, зайдите в игру и перепишите код еще раз.'
 
+BOT_STATS_FORMAT: '!stats <ник игрока>'
+BOT_STATS_NAME: 'Информация о игроке %s:'
+BOT_STATS_LIST:
+  - 'Ранг: %s'
+  - 'Монет: %s'
+  - 'Сервер: %s'
+  - ''
+  - 'Наигранно времени: %s'
+
+DISCORD_NOT_LINKED:
+  - ''
+  - '%sЭтот аккаунт не привязан к §9Дискорду'
+  - '%sИспользуйте §b/discord link§r, чтобы привязать его'
+  - ''
 DISCORD_LINK_ALREADY: 
   - ''
   - '%sЭтот аккаунт уже привязан к §9Дискорду'
@@ -88,7 +104,7 @@ BOARD_STATISTIC: 'Статистика'
 BOARD_GROUP: 'Ранг'
 BOARD_SIZE: 'Размер'
 BOARD_MEMBERS: 'Участников'
-BOARD_BALANCE: 'Клауды'
+BOARD_BALANCE: 'Монет'
 BOARD_KILLS: 'Убийств'
 BOARD_DEATHS: 'Смертей'
 BOARD_ISLAND_NOT_FOUND1: 'Остров не найден'
