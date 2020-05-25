@@ -192,7 +192,7 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
-ITEMS_GUI_BACK_NAME: '§cНазад'
+ITEMS_GUI_BACK_NAME: '§bНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
 
