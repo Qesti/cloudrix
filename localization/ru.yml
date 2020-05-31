@@ -152,6 +152,12 @@ HELP_FRIENDS:
 - ' §7/friends requests §f- список запросов в друзья'
 - ' §7/friends list §f- список друзей'
 
+SKYBLOCK_SCHEMATICS_NAME: '§bОбщая информация'
+SKYBLOCK_SCHEMATICS_LORE:
+- ''
+- '§7Доступно схематиков: §b%s §8(%s)'
+- '§7Всего схематиков: §b%s'
+
 ACCEPT: '§a[ПРИНЯТЬ]'
 CANCEL: '§c[ОТКЛОНИТЬ]'
 
