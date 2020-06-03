@@ -224,7 +224,7 @@ FIND_RESULT: 'Игрок %s §rнаходится на сервере §b%s'
 
 SERVER_TO: 'Вы подключены к серверу §b%s'
 ALREADY_ON_SERVER: 'Вы уже находитесь на данном сервере!'
-SENDING_ALL_PLAYERS_TO_SERVER: 'Все §b%s §r%s телепортированы на сервер §b%s'
+SENDING_ALL_PLAYERS_TO_SERVER: 'Все §b%s телепортированы на сервер §b%s'
 SENDING_PLAYER_TO_SERVER: 'Игрок %s §rуспешно телепортирован на сервер §b%s'
 YOU_HAVE_BEEN_SENT: '%s §rтелепортировал вас на сервер §b%s'
 
