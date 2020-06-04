@@ -232,5 +232,5 @@ YOU_HAVE_BEEN_SENT: '%s §rтелепортировал вас на сервер
 
 KICKED_FROM_SERVER: 'Вы были кикнуты с сервера §b%s §rпо причине: %s'
 
-STAFFCHAT_MSG: '§9Чат персонала §8| §f%s §8» §f%s'
-DONATECHAT_MSG: '§bЧат донатеров §8| §f%s §8» §7%s'
+STAFFCHAT_MSG: '§9Чат персонала §8| §f%s §8▸ §f%s'
+DONATECHAT_MSG: '§bЧат донатеров §8| §f%s §8▸ §f%s'
