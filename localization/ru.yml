@@ -230,13 +230,14 @@ PROFILE_MAIN_ITEM_INFO_LORE:
 - '§7Уровень: §b%s'
 
 PROFILE_MAIN_ITEM_SETTINGS_NAME: '§bНастройки'
-PROFILE_MAIN_ITEM_SETTINGS_NAME:
+PROFILE_MAIN_ITEM_SETTINGS_LORE:
 - ''
 - '§7Ваши персональные настройки:'
 - ' §fПолет: %s'
 - ' §fПодсветка: %s'
 - ''
 - '§e▸ Нажмите, чтобы открыть'
+
 
 CLICK_TO_ENABLED:
 - '§7Нажмите, чтобы включить'
