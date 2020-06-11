@@ -73,7 +73,7 @@ REPORTS_1:
   
 DISCORD_CONFIRM_PLS: 'Please send this message to our bot §b%s'
 DISCORD_HAS_KEY: 'Our system already has a confirmation code, your code was §b%s'
-DISCORD_ACCOUNT_VERIFIED: 'You tethered account §b%s §rк этой четной записи, и вам выдана роль %s'
+DISCORD_ACCOUNT_VERIFIED: 'You tethered account §b%s §rto this account and you are given a role %s'
 DISCORD_BOT_VERIFIED: 'Your account %s was successfully linked to discord %s'
 DISCORD_INVALID_KEY: 'You entered the wrong code, go to the game and rewrite the code again.'
 DISCORD_ACCOUNT_UNLINKED: 'You have successfully unlinked this account from §9discorda'
