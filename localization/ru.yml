@@ -204,7 +204,7 @@ PAGE_ARROW_LORE:
 - '§7на %s страницу'
 
 PROFILE_MAIN_GUI_NAME: 'Профиль'
-SETTINGS_GUI_NAME: 'Профиль ▸ Профиль'
+SETTINGS_GUI_NAME: 'Профиль ▸ Настройки'
 
 ITEMS_INV_SELECTOR_NAME: '§bВыбор режима'
 ITEMS_INV_SELECTOR_LORE:
