@@ -238,6 +238,17 @@ PROFILE_MAIN_ITEM_SETTINGS_NAME:
 - ''
 - '§e▸ Нажмите, чтобы открыть'
 
+CLICK_TO_ENABLED:
+- '§7Нажмите, чтобы включить'
+CLICK_TO_DISABLED:
+- '§7Нажмите, чтобы отключить'
+
+SETTINGS_FLY_NAME: 'Полет'
+SETTINGS_FLY_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7включить или же отключить'
+- '§7полет'
+
 ITEMS_GUI_BACK_NAME: '§bНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
