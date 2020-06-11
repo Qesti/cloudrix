@@ -102,7 +102,7 @@ GET_REWARD: '§7Go to your profile to get your reward'
 
 ALREADY_REGISTER: 'Error, you are already registered!'
 AUTH_PLEASE: 'Log in - §7/login <password>'
-REJOIN_TO_BE_LICENSE: 'Switch to the server from the license account to activate this option'
+REJOIN_TO_BE_LICENSE: 'Reconnect to the server with a license account to activate this option.'
 LICENSE_OFF: 'Login via the license is disabled, I hope you remember your password'
 
 LICENSE_NOT_USED: 'Error, you have disabled license login'
