@@ -205,6 +205,7 @@ PAGE_ARROW_LORE:
 
 PROFILE_MAIN_GUI_NAME: 'Профиль'
 SETTINGS_GUI_NAME: 'Профиль ▸ Настройки'
+LANGUAGE_GUI_NAME: 'Профиль ▸ Смена языка'
 MODE_SELECTION_GUI_NAME: 'Выбор режима'
 
 ITEMS_INV_SELECTOR_NAME: '§bВыбор режима'
@@ -237,7 +238,6 @@ PROFILE_MAIN_ITEM_SETTINGS_LORE:
 - ' §fПодсветка: %s'
 - ''
 - '§e▸ Нажмите, чтобы открыть'
-
 
 CLICK_TO_ENABLED:
 - '§7Нажмите, чтобы включить'
