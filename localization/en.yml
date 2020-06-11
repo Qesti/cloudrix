@@ -23,7 +23,7 @@ COOLDOWN: 'Please wait §b%s %s §rbefore next use'
 NO_PERMS: 'You do not have permission'
 NO_PERMS_GROUP: 'You do not have permission, purchase %s §ror higher'
 
-JOIN_PLAYER_LO_LOBBY: ' §a▸ §r%s §6has joined to the server'
+JOIN_PLAYER_LO_LOBBY: ' §b▸ §r%s §rhas joined to the server'
 
 ENABLED: '§aEnabled'
 DISABLED: '§cDisabled'
