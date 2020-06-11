@@ -162,7 +162,7 @@ REPORT_SENT: 'You sent a complaint about a player §7%s §rbecause of: §b%s'
 TOO_MANY_REPORTS: 'On the player §7%s §rreceived already §b%s §r%s!'
 LIMIT_REPORTS: 'From player §7%s §rthe complaint limit is too high!'
 REPORT_PLAYER_STARTED_SPECTATE: 'You went to keep an eye on §7%s'
-YOU_CANT_SENT_REPORT: 'You can't send a complaint about this player!'
+YOU_CANT_SENT_REPORT: 'You cant send a complaint about this player!'
 
 ALERT_FORMAT: '/alert <message>'
 STAFFCHAT_FORMAT: '/staffchat <message>'
