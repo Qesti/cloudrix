@@ -14,6 +14,8 @@ NOVEMBER: 'November'
 DECEMBER: 'December'
 
 PLAYER_NOT_FOUND: 'Error, player %s §rnot found'
+PLAYER_NEVER_PLAYED: 'Error, the player %s has never played on our project before'
+SERVER_NOT_FOUND: 'Server §7%s §rnot found'
 ERROR_COMMAND: 'Error, use %s'
 
 COOLDOWN: 'Please wait §b%s %s §rbefore next use'
@@ -56,6 +58,28 @@ TIME_SECOND_2:
   - ''
   - 's'
   - 's'
+REPORTS_1:
+  - 'Complaint'
+  - 'a'
+  - 'y'
+  - ''
+  
+DISCORD_CONFIRM_PLS: 'Please send this message to our bot §b%s'
+DISCORD_HAS_KEY: 'Our system already has a confirmation code, your code was §b%s'
+DISCORD_ACCOUNT_VERIFIED: 'You tethered account §b%s §rк этой четной записи, и вам выдана роль %s'
+DISCORD_BOT_VERIFIED: 'Your account %s was successfully linked to discord %s'
+DISCORD_INVALID_KEY: 'You entered the wrong code, go to the game and rewrite the code again.'
+DISCORD_ACCOUNT_UNLINKED: 'Вы успешно отвязали этот аккаунт от §9дискорда'
+
+BOT_STATS_FORMAT: '!stats <player name>'
+BOT_STATS_NAME: 'Информация о игроке %s:'
+BOT_STATS_LIST:
+  - 'Rank: %s'
+  - 'Money: %s'
+  - 'Server: %s'
+  - ''
+  - 'Наигранно времени: %s'
+
 
 PROFILE_MAIN_GUI_NAME: 'Profile'
 SETTINGS_GUI_NAME: 'Profile ▸ Settings'
@@ -108,6 +132,12 @@ STP_FORMAT: '/stp <player name>'
 SERVER_FORMAT: '/server <server>'
 SEND_FORMAT: '/send <player name> <server>'
 SENDALL_FORMAT: '/sendall <server>'
+REPLY_FORMAT: '/reply <Message>'
+MSG_FORMAT: '/msg <player name> <Message>'
+FIND_FORMAT: '/find <player name>'
+IGNORE_FORMAT: '/ignore <player name>'
+REPORT_FORMAT: '/report <player name> <reason>'
+CRASH_FORMAT: '/crash <player name>'
 
 WHERE_RESULT: 'You are on the server §b%s'
 STP_RESULT: 'Teleporting to server %s §7(%s)'
