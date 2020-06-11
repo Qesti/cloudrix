@@ -69,8 +69,8 @@ CANT_IGNORE_YOURSELF: 'Ви не можете ігнорувати самого 
 PLAYER_IGNORED: 'Ви додали гравця %s §rв список ігнорованих. Тепер він не зможе писати Вам'
 PLAYER_NOT_IGNORED: 'Ви видалили гравця %s §rзі списку ігнорованих'
 REPLY_PLAYER_NULL: 'Вам ще не писали особистих повідомлень'
-SENT_MESSAGE_FORMAT: ' §6ОП §8| §6Я §8-> §6%s §8| §f%s'
-RECIEVED_MESSAGE_FORMAT: ' §6ОП §8| §6%s §8-> §6Я §8| §f%s'
+SENT_MESSAGE_FORMAT: ' §bОП §8| §bЯ §8-> §b%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §bОП §8| §b%s §8-> §bЯ §8| §f%s'
 ONLINE_ALL_PLAYERS_ONLINE: 'Загальний онлайн проекту §b%s §r%s'
 
 ALERT_FORMAT: '/alert <повідомлення>'

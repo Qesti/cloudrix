@@ -97,6 +97,9 @@ BOARD_TOTAL_ONLINE: 'Total online'
 
 PING: 'Your ping §b%s §rms'
 
+SENT_MESSAGE_FORMAT: ' §bPM §8| §bMe §8-> §b%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §bPM §8| §b%s §8-> §bMe §8| §f%s'
+
 ALERT_FORMAT: '/alert <message>'
 STAFFCHAT_FORMAT: '/staffchat <message>'
 DONATECHAT_FORMAT: '/donatechat <message>'
