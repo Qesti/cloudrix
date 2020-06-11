@@ -217,6 +217,11 @@ ITEMS_INV_PROFILE_LORE:
 - '§7Используйте этот предмет, чтобы'
 - '§7Иполучить информацию об аккаунте'
 
+ITEMS_INV_PRIVILEGES_NAME: '§bПривилегии'
+ITEMS_INV_PRIVILEGES_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7посмотреть список привилегий'
+
 PROFILE_MAIN_ITEM_INFO_NAME: '§bИнформация о вашем аккаунте'
 PROFILE_MAIN_ITEM_INFO_LORE: 
 - ''
