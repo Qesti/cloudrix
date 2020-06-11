@@ -56,7 +56,9 @@ TIME_SECOND_2:
   - ''
   - 's'
   - 's'
-  
+
+PROFILE_MAIN_GUI_NAME: 'Profile'
+SETTINGS_GUI_NAME: 'Profile ▸ Settings'
 
 ITEMS_INV_SELECTOR_NAME: '§bMode selection'
 ITEMS_INV_SELECTOR_LORE:
@@ -68,15 +70,15 @@ ITEMS_INV_PROFILE_LORE:
 - '§7Use this item to'
 - '§7get account information.'
 
-ITEMS_GUI_INFO_NAME: '§bAccount Information'
-ITEMS_GUI_INFO_LORE: 
+PROFILE_MAIN_ITEM_INFO_NAME: '§bAccount Information'
+PROFILE_MAIN_ITEM_INFO_LORE: 
 - ''
 - '§7Privilege: %s'
 - ''
 - '§7Level: §b%s'
 
-ITEMS_GUI_SETTINGS_NAME: '§bSettings'
-ITEMS_GUI_SETTINGS_LORE:
+PROFILE_MAIN_ITEM_SETTINGS_NAME: '§bSettings'
+PROFILE_MAIN_ITEM_SETTINGS_LORE:
 - ''
 - '§7Your personal settings:'
 - ' §fFlying: %s'
