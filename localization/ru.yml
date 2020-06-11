@@ -25,6 +25,9 @@ NO_PERMS_GROUP: 'У вас недостаточно прав, приобрети
 
 JOIN_PLAYER_LO_LOBBY: ' §b▸ §r%s §rзашёл на сервер'
 
+ENABLED: '§aВключен'
+DISABLED: '§cОтключен'
+
 PLAYERS_1:
   - 'игрок'
   - ''
