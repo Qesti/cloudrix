@@ -182,6 +182,20 @@ LEVEL_COMMAND_2: 'До следующего уровня необходимо §
 
 LIST_CMD: 'На сервере §b%s §r%s: %s'
 
+ALREADY_REGISTERED: 'Ошибка, вы уже зарегистрированы!'
+NOT_REGISTERED: 'Ошибка, вы не зарегистрированы!'
+PASSWORD_DONT_MATCH: 'Ошибка, пароли не совпадают!'
+PASSWORD_MIN_LENGHT: 'Минимальная длина пароля §b4 §rсимвола'
+PASSWORD_MAX_LENGHT: 'Минимальная длина пароля §b16 §rсимволов'
+PASSWORD_INCORRECT_SYMBOL: 'Ошибка, в пароле содержатся запрещенные символы'
+SUCCESSFUL_REGISTRATION: '§bВы успешно зарегистрировались!'
+SUCCESSFUL_REGISTRATION_HOVER: ' (наведи сюда)'
+REGISTERED_PASS_HOVER:
+- '§fПароль - §b%s'
+- ''
+- '§fЗапомни его или сделай'
+- '§fскриншот, чтобы не забыть - §bклавиша F2§7'
+
 PING: 'Ваш пинг §b%s §rms'
 
 YOU_CANT_CONTACT_HIM: 'Ошибка, игрок %s §rигнорирует вас'
@@ -282,6 +296,8 @@ FIND_FORMAT: '/find <ник игрока>'
 IGNORE_FORMAT: '/ignore <ник игрока>'
 REPORT_FORMAT: '/report <ник игрока> <причина>'
 CRASH_FORMAT: '/crash <ник игрока>'
+REGISTER_FORMAT: '/register <пароль> <пароль>'
+LOGIN_FORMAT: '/login <пароль>'
 
 WHERE_RESULT: 'Вы находитесь на сервере §b%s'
 STP_RESULT: 'Происходит телепортация на сервер %s §7(%s)'
