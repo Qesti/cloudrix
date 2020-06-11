@@ -203,6 +203,9 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
+PROFILE_MAIN_GUI_NAME: 'Профиль'
+SETTINGS_GUI_NAME: 'Профиль ▸ Профиль'
+
 ITEMS_INV_SELECTOR_NAME: '§bВыбор режима'
 ITEMS_INV_SELECTOR_LORE:
 - '§7Используйте этот предмет, чтобы'
@@ -213,15 +216,15 @@ ITEMS_INV_PROFILE_LORE:
 - '§7Используйте этот предмет, чтобы'
 - '§7Иполучить информацию об аккаунте'
 
-ITEMS_GUI_INFO_NAME: '§bИнформация о вашем аккаунте'
-ITEMS_GUI_INFO_LORE: 
+PROFILE_MAIN_ITEM_INFO_NAME: '§bИнформация о вашем аккаунте'
+PROFILE_MAIN_ITEM_INFO_LORE: 
 - ''
 - '§7Привилегия: %s'
 - ''
 - '§7Уровень: §b%s'
 
-ITEMS_GUI_SETTINGS_NAME: '§bНастройки'
-ITEMS_GUI_SETTINGS_LORE:
+PROFILE_MAIN_ITEM_SETTINGS_NAME: '§bНастройки'
+PROFILE_MAIN_ITEM_SETTINGS_NAME:
 - ''
 - '§7Ваши персональные настройки:'
 - ' §fПолет: %s'
