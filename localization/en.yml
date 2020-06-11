@@ -20,6 +20,8 @@ ERROR_COMMAND: 'Error, use %s'
 
 COOLDOWN: 'Please wait §b%s %s §rbefore next use'
 
+MODE_SELECTION_GUI_NAME: 'Mode selection'
+
 NO_PERMS: 'You do not have permission'
 NO_PERMS_GROUP: 'You do not have permission, purchase %s §ror higher'
 
@@ -48,6 +50,11 @@ TIME_MINUTES_1:
   - ''
   - 's'
   - 's'
+TIME_MINUTES_2:
+  - 'minutes'
+  - 'e'
+  - 's'
+  - ''
 TIME_DAY_1:
   - 'd'
   - 'ay'
@@ -69,20 +76,31 @@ DISCORD_HAS_KEY: 'Our system already has a confirmation code, your code was §b%
 DISCORD_ACCOUNT_VERIFIED: 'You tethered account §b%s §rк этой четной записи, и вам выдана роль %s'
 DISCORD_BOT_VERIFIED: 'Your account %s was successfully linked to discord %s'
 DISCORD_INVALID_KEY: 'You entered the wrong code, go to the game and rewrite the code again.'
-DISCORD_ACCOUNT_UNLINKED: 'Вы успешно отвязали этот аккаунт от §9дискорда'
+DISCORD_ACCOUNT_UNLINKED: 'You have successfully unlinked this account from §9discorda'
 
-BOT_STATS_FORMAT: '!stats <player name>'
-BOT_STATS_NAME: 'Информация о игроке %s:'
-BOT_STATS_LIST:
-  - 'Rank: %s'
-  - 'Money: %s'
-  - 'Server: %s'
+HELP_DISCORD: 
+  - ' §7/discord link §f- link to discord'
+  - ' §7/discord unlink §f- to get rid discord'
+DISCORD_NOT_LINKED:
   - ''
-  - 'Наигранно времени: %s'
-
+  - '%s This account is not linked to §9Discord'
+  - '%s Use §b/discord link§r, to link it'
+  - ''
+DISCORD_LINK_ALREADY: 
+  - ''
+  - '%s This account is already linked to §9Discord'
+  - '%s Use §b/discord unlink§r, to untie it'
+  - ''
 
 PROFILE_MAIN_GUI_NAME: 'Profile'
 SETTINGS_GUI_NAME: 'Profile ▸ Settings'
+
+LVL_UP: '§a§l§kX§r §6§lLEVEL RAISED §a§l§kX§r'
+NEW_LVL: '§fYou reached §d%s§f level's!'
+EXP_TO_NEW_LVL: '§fUp to the next level need §b%s XP'
+GET_REWARD: '§7Go to your profile to get your reward'
+
+DONT_DUPLICATE_MESSAGE: 'Don't repeat messages!'
 
 ITEMS_INV_SELECTOR_NAME: '§bMode selection'
 ITEMS_INV_SELECTOR_LORE:
@@ -121,8 +139,30 @@ BOARD_TOTAL_ONLINE: 'Total online'
 
 PING: 'Your ping §b%s §rms'
 
+YOU_CANT_CONTACT_HIM: 'Error, player %s §rignore you'
+ALL_CANT_CONTACT_HIM: 'Error, player %s §rdisabled private messages'
+PLAYERS_IGNORED: 'Now players can't send you private messages.'
+PLAYERS_UNIGNORED: 'Players can now send you private messages.'
+CANT_MESSAGE_YOURSELF: 'You can't write to yourself'
+CANT_IGNORE_YOURSELF: 'You can't ignore yourself'
+PLAYER_IGNORED: 'You added a player %s §rto the ignored list. Now he can't write to You'
+PLAYER_NOT_IGNORED: 'You deleted a player %s §rfrom the ignored list'
+REPLY_PLAYER_NULL: 'You haven't received any personal messages yet'
+
 SENT_MESSAGE_FORMAT: ' §bPM §8| §bMe §8-> §b%s §8| §f%s'
 RECIEVED_MESSAGE_FORMAT: ' §bPM §8| §b%s §8-> §bMe §8| §f%s'
+
+ITEMS_GUI_BACK_NAME: '§bBack'
+ITEMS_GUI_BACK_LORE: 
+- '§7Click to go back'
+
+CANT_REPORT_YOURSELF: 'You can't file a complaint against yourself'
+LITTLE_REASON_REPORT: 'Specify a longer reason for the complaint!'
+REPORT_SENT: 'You sent a complaint about a player §7%s §rbecause of: §b%s'
+TOO_MANY_REPORTS: 'On the player §7%s §rreceived already §b%s §r%s!'
+LIMIT_REPORTS: 'From player §7%s §rthe complaint limit is too high!'
+REPORT_PLAYER_STARTED_SPECTATE: 'You went to keep an eye on §7%s'
+YOU_CANT_SENT_REPORT: 'You can't send a complaint about this player!'
 
 ALERT_FORMAT: '/alert <message>'
 STAFFCHAT_FORMAT: '/staffchat <message>'
