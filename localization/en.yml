@@ -96,11 +96,11 @@ PROFILE_MAIN_GUI_NAME: 'Profile'
 SETTINGS_GUI_NAME: 'Profile ▸ Settings'
 
 LVL_UP: '§a§l§kX§r §6§lLEVEL RAISED §a§l§kX§r'
-NEW_LVL: '§fYou reached §d%s§f level's!'
+NEW_LVL: '§fYou reached §d%s§f level!'
 EXP_TO_NEW_LVL: '§fUp to the next level need §b%s XP'
 GET_REWARD: '§7Go to your profile to get your reward'
 
-DONT_DUPLICATE_MESSAGE: 'Don't repeat messages!'
+DONT_DUPLICATE_MESSAGE: 'Dont repeat messages!'
 
 ITEMS_INV_SELECTOR_NAME: '§bMode selection'
 ITEMS_INV_SELECTOR_LORE:
