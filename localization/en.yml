@@ -23,6 +23,9 @@ NO_PERMS_GROUP: 'You do not have permission, purchase %s §ror higher'
 
 JOIN_PLAYER_LO_LOBBY: ' §a▸ §r%s §6has joined to the server'
 
+ENABLED: '§aEnabled'
+DISABLED: '§cDisabled'
+
 PLAYERS_1:
   - 'player'
   - 's'
@@ -53,6 +56,23 @@ TIME_SECOND_2:
   - ''
   - 's'
   - 's'
+
+ITEMS_GUI_INFO_NAME: '§bAccount Information'
+ITEMS_GUI_INFO_LORE: 
+- ''
+- '§7Privilege: %s'
+- ''
+- '§7Level: §b%s'
+
+ITEMS_GUI_SETTINGS_NAME: '§bSettings'
+ITEMS_GUI_SETTINGS_LORE:
+- ''
+- '§7Your personal settings:'
+- ' §fFlying: %s'
+- ' §fGlowing: %s'
+- ''
+- '§e▸ Click to open'
+
 
 BOARD_INFORMATION: 'Information'
 BOARD_STATISTIC: 'Statistic'
