@@ -56,6 +56,17 @@ TIME_SECOND_2:
   - ''
   - 's'
   - 's'
+  
+
+ITEMS_INV_SELECTOR_NAME: '§bMode selection'
+ITEMS_INV_SELECTOR_LORE:
+- '§7Use this item to'
+- '§7switch between servers.'
+
+ITEMS_INV_PROFILE_NAME: '§bProfile'
+ITEMS_INV_PROFILE_LORE:
+- '§7Use this item to'
+- '§7get account information.'
 
 ITEMS_GUI_INFO_NAME: '§bAccount Information'
 ITEMS_GUI_INFO_LORE: 
