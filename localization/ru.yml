@@ -239,6 +239,14 @@ PROFILE_MAIN_ITEM_SETTINGS_LORE:
 - ''
 - '§e▸ Нажмите, чтобы открыть'
 
+LANGUAGE_NOT_SELECTED:
+- ''
+- '§e▸ Нажмите, чтобы выбрать'
+
+LANGUAGE_SELECTED:
+- ''
+- '§bВыбран'
+
 CLICK_TO_ENABLED:
 - '§7Нажмите, чтобы включить'
 CLICK_TO_DISABLED:
