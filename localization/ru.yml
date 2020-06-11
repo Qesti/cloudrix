@@ -182,12 +182,21 @@ LEVEL_COMMAND_2: 'До следующего уровня необходимо §
 
 LIST_CMD: 'На сервере §b%s §r%s: %s'
 
-ALREADY_REGISTERED: 'Ошибка, вы уже зарегистрированы!'
+ALREADY_REGISTER: 'Ошибка, вы уже зарегистрированы!'
+AUTH_PLEASE: 'Авторизуйтесь - §7/login <пароль>'
+YOU_HAVE_JUST_LOGGED_OUT: 'Вы вышли из своего аккаунта'
+REGISTER_PLEASE: 'Зарегистрируйтесь - §7/reg <пароль> <повтор пароля>'
+ALREADY_LOGIN: 'Ошибка, вы уже авторизированны!'
 NOT_REGISTERED: 'Ошибка, вы не зарегистрированы!'
+NOT_LOGINED: 'Ошибка, вы не авторизованы!'
+PASSWORD_HAS_BEEN_CHANGED: 'Ваш пароль был успешно изменен'
+WRONG_PASSWORD: 'Вы указали неверный пароль! У вас осталось §b%s §r%s'
+WRONG_OLD_PASSWORD: 'Ошибка, старый пароль введен неправильно!'
 PASSWORD_DONT_MATCH: 'Ошибка, пароли не совпадают!'
 PASSWORD_MIN_LENGHT: 'Минимальная длина пароля §b4 §rсимвола'
 PASSWORD_MAX_LENGHT: 'Минимальная длина пароля §b16 §rсимволов'
 PASSWORD_INCORRECT_SYMBOL: 'Ошибка, в пароле содержатся запрещенные символы'
+SUCCESSFUL_LOGIN: 'Вы успешно авторизовались!'
 SUCCESSFUL_REGISTRATION: '§bВы успешно зарегистрировались!'
 SUCCESSFUL_REGISTRATION_HOVER: ' (наведи сюда)'
 REGISTERED_PASS_HOVER:
@@ -195,6 +204,13 @@ REGISTERED_PASS_HOVER:
 - ''
 - '§fЗапомни его или сделай'
 - '§fскриншот, чтобы не забыть - §bклавиша F2§7'
+
+KICK_AUTH:
+- '§bCloudrix'
+- ''
+- '§rСлишком много попыток неправильного'
+- '§rввода пароля. Ваш аккаунт'
+- '§rзаблокирован на несколько минут'
 
 PING: 'Ваш пинг §b%s §rms'
 
@@ -298,6 +314,7 @@ REPORT_FORMAT: '/report <ник игрока> <причина>'
 CRASH_FORMAT: '/crash <ник игрока>'
 REGISTER_FORMAT: '/register <пароль> <пароль>'
 LOGIN_FORMAT: '/login <пароль>'
+CHANGEPASSWORD_FORMAT: '/changepassword <>'
 
 WHERE_RESULT: 'Вы находитесь на сервере §b%s'
 STP_RESULT: 'Происходит телепортация на сервер %s §7(%s)'
