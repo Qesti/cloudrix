@@ -203,6 +203,16 @@ PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
 
+ITEMS_INV_SELECTOR_NAME: '§bВыбор режима'
+ITEMS_INV_SELECTOR_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7переключаться между серверами'
+
+ITEMS_INV_PROFILE_NAME: '§bПрофиль'
+ITEMS_INV_PROFILE_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7Иполучить информацию об аккаунте'
+
 ITEMS_GUI_INFO_NAME: '§bИнформация о вашем аккаунте'
 ITEMS_GUI_INFO_LORE: 
 - ''
