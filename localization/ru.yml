@@ -208,6 +208,7 @@ AUTH_REGISTER_ADMIN_FORMAT: '/auth register <ник игрока> <пароль>
 AUTH_UNREGISTER_ADMIN_FORMAT: '/auth unregister <ник игрока>'
 AUTH_RESETLICENSE_ADMIN_FORMAT: '/auth resetlicense <ник игрока>'
 AUTH_CHANGEPASSWORD_ADMIN_FORMAT: '/auth changepassword <ник игрока> <пароль>'
+AUTH_INFO_ADMIN_FORMAT: '/auth info <ник игрока>'
 AUTH_REGISTER_ADMIN_DONE: 'Игрок %s §rуспешно зарегистрирован с паролем §7%s'
 
 AUTH_PLEASE: 'Авторизуйтесь - §7/login <пароль>'
