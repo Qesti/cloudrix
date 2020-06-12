@@ -202,6 +202,7 @@ AUTH_INFO_PLAYER:
  - ' §7- §rПочта: §b%s'
  - ' §7- §rЛицензия: §b%s'
  - ' §7- §rПоследний ип: §b%s'
+ - ' §7- §rПароль: §b%s'
  - ' §7- §rСервер: §b%s'
 
 AUTH_REGISTER_ADMIN_FORMAT: '/auth register <ник игрока> <пароль>'
