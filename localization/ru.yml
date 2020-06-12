@@ -191,6 +191,25 @@ ALREADY_REGISTER: 'Ошибка, вы уже зарегистрированы!'
 REJOIN_TO_BE_LICENSE: 'Перезайдите на сервер с лицензионного аккаунта, чтобы активировать данную опцию'
 LICENSE_OFF: 'Вход через лицензию отключен, надеюсь вы помните свой пароль'
 
+AUTH_HELP:
+ - ' §7/auth register <ник игрока> <пароль> §f- зарегать игрока'
+ - ' §7/auth unregister <ник игрока> §f- снять регистрацию'
+ - ' §7/auth info <ник игрока> §f- информация об игроке'
+ - ' §7/auth resetlicense <ник игрока> §f- отключить вход с лицензии'
+
+AUTH_INFO_PLAYER:
+ - '§bCloudrix §8» §rИнформация об игроке %s§r:'
+ - ' §7- §rПочта: §b%s'
+ - ' §7- §rЛицензия: §b%s'
+ - ' §7- §rПоследний ип: §b%s'
+ - ' §7- §rСервер: §b%s'
+
+AUTH_REGISTER_ADMIN_FORMAT: '/auth register <ник игрока> <пароль>'
+AUTH_UNREGISTER_ADMIN_FORMAT: '/auth unregister <ник игрока>'
+AUTH_RESETLICENSE_ADMIN_FORMAT: '/auth resetlicense <ник игрока>'
+AUTH_CHANGEPASSWORD_ADMIN_FORMAT: '/auth changepassword <ник игрока> <пароль>'
+AUTH_REGISTER_ADMIN_DONE: 'Игрок %s §rуспешно зарегистрирован с паролем §7%s'
+
 AUTH_PLEASE: 'Авторизуйтесь - §7/login <пароль>'
 LICENSE_NOT_USED: 'Ошибка, у вас отключен вход с лицензии'
 LICENSE_ALREDY_USED: 'Ошибка, у вас уже включен вход с лицензии'
