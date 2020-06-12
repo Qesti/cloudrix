@@ -100,8 +100,21 @@ DISCORD_LINK_ALREADY:
 PROFILE_MAIN_GUI_NAME: 'Profile'
 SETTINGS_GUI_NAME: 'Profile ▸ Settings'
 
-LVL_UP: '§a§l§kX§r §6§lLEVEL RAISED §a§l§kX§r'
-NEW_LVL: '§fYou reached §d%s§f level!'
+YOU_CANT_CONTACT_HIM: 'Error, player %s §rignores you'
+ALL_CANT_CONTACT_HIM: 'Error, player %s §rturned off private messages'
+PLAYERS_IGNORED: 'Players can no longer send you private messages.'
+PLAYERS_UNIGNORED: 'Players can now send you private messages.'
+CANT_MESSAGE_YOURSELF: 'You cannot write to yourself'
+CANT_IGNORE_YOURSELF: 'You cannot ignore yourself'
+PLAYER_IGNORED: 'You added player %s §rto the list of ignored. Now he will not be able to write to you.'
+PLAYER_NOT_IGNORED: 'You have removed player %s §rfrom the ignored list'
+REPLY_PLAYER_NULL: 'You have not yet received private messages'
+SENT_MESSAGE_FORMAT: '§bPM §8 | §bI §8-> §b%s §8 | §f%s'
+RECIEVED_MESSAGE_FORMAT: '§bPM §8 | §b%s §8-> §bI §8 | §f%s'
+ONLINE_ALL_PLAYERS_ONLINE: 'Total online project §b%s §r%s'
+
+LVL_UP: '§b§l§kX§r §b§lLEVEL REACHED §b§l§kX§r'
+NEW_LVL: '§fYou reached §b%s§f level!'
 EXP_TO_NEW_LVL: '§fUp to the next level need §b%s XP'
 GET_REWARD: '§7Go to your profile to get your reward'
 
@@ -148,7 +161,6 @@ PASSWORD_MAX_LENGHT: 'Minimum password length §b16 §rcharacters'
 PASSWORD_INCORRECT_SYMBOL: 'Error, the password contains forbidden characters'
 SUCCESSFUL_LOGIN: 'You have successfully logged in!'
 SUCCESSFUL_REGISTRATION: 'You have successfully registered'
-SUCCESSFUL_REGISTRATION_HOVER: ' (point it here)'
 REGISTERED_PASS_HOVER:
 - '§fYour password - §b%s'
 - ''
@@ -214,11 +226,11 @@ SETTINGS_FLY_LORE:
 - '§7enable or disable'
 - '§7flight'
 
-SETTINGS_GLOWING_NAME: 'Illumination'
+SETTINGS_GLOWING_NAME: 'Glowing'
 SETTINGS_GLOWING_LORE:
 - '§7Use this item to'
 - '§7enable or disable'
-- '§7illumination'
+- '§7glowing'
 
 BOARD_INFORMATION: 'Information'
 BOARD_STATISTIC: 'Statistic'
