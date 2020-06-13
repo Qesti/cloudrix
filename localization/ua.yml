@@ -96,7 +96,7 @@ HELP_DISCORD:
 DISCORD_NOT_LINKED:
   - ''
   - '%s Цей обліковий запис не прив`язаний до §9діскорду'
-  - '%s Використовуйте §b/discord link§r, щоб прив'язати його'
+  - '%s Використовуйте §b/discord link§r, щоб прив`язати його'
   - ''
 DISCORD_LINK_ALREADY: 
   - ''
