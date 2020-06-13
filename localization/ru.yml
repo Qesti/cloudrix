@@ -308,7 +308,7 @@ LANGUAGE_NOT_SELECTED:
 
 LANGUAGE_SELECTED:
 - ''
-- '§aВыбран'
+- '§e▸ Выбран'
 
 CLICK_TO_ENABLED:
 - '§7Нажмите, чтобы включить'

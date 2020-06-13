@@ -250,7 +250,7 @@ LANGUAGE_NOT_SELECTED:
 
 LANGUAGE_SELECTED:
 - ''
-- '§aSelected'
+- '§e▸ Selected'
 
 CLICK_TO_ENABLED:
 - '§7Click to enable'
