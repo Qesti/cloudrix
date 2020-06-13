@@ -224,21 +224,21 @@ KICK_AUTH:
 
 PING: 'Ваш пінг §b%s §rms'
 
-YOU_CANT_CONTACT_HIM: 'Помилка, гравець %s §rігнорірует вас'
-ALL_CANT_CONTACT_HIM: 'Помилка, гравець %s §rотключіл приватні повідомлення'
-PLAYERS_IGNORED: 'Тепер гравці не можуть відправляти вам особисті повідомлення.'
-PLAYERS_UNIGNORED: 'Тепер гравці можуть відправляти вам особисті повідомлення.'
+YOU_CANT_CONTACT_HIM: 'Помилка, гравець %s §rігнорірує вас'
+ALL_CANT_CONTACT_HIM: 'Помилка, гравець %s §rвідключив приватні повідомлення'
+PLAYERS_IGNORED: 'Тепер гравці не можуть відправляти вам приватні повідомлення.'
+PLAYERS_UNIGNORED: 'Тепер гравці можуть відправляти вам приватні повідомлення.'
 CANT_MESSAGE_YOURSELF: 'Ви не можете написати самому собі'
 CANT_IGNORE_YOURSELF: 'Ви не можете ігнорувати самого себе'
 PLAYER_IGNORED: 'Ви додали гравця %s §rв список ігнорованих. Тепер він не зможе писати Вам'
-PLAYER_NOT_IGNORED: 'Ви видалили гравця %s §rіз списку ігнорованих'
-REPLY_PLAYER_NULL: 'Вам ще не писали особистих повідомлень'
+PLAYER_NOT_IGNORED: 'Ви видалили гравця %s §rзі списку ігнорованих'
+REPLY_PLAYER_NULL: 'Вам ще не писали приватних повідомлень'
 SENT_MESSAGE_FORMAT: '§bПМ §8 | §bЯ §8-> §b %s §8 | §f%s '
 RECIEVED_MESSAGE_FORMAT: '§bПМ §8 | §b %s §8-> §bЯ §8 | §f%s '
 ONLINE_ALL_PLAYERS_ONLINE: 'Загальний онлайн проекту §b%s §r%s'
 
-PAGE_ARROW_RIGHT: '§bСледующая страница'
-PAGE_ARROW_LEFT: '§bПредыдущая страница'
+PAGE_ARROW_RIGHT: '§bНаступна сторінка'
+PAGE_ARROW_LEFT: '§bПопередня сторінка'
 PAGE_ARROW_LORE:
 - '§7Нажмите для перехода'
 - '§7на %s страницу'
@@ -339,5 +339,5 @@ YOU_HAVE_BEEN_SENT: '%s §rтелепортировал вас на сервер
 
 KICKED_FROM_SERVER: 'Вы были кикнуты с сервера §b%s §rпо причине: %s'
 
-STAFFCHAT_MSG: '§9Чат персонала §8| §f%s §8▸ §f%s'
-DONATECHAT_MSG: '§bЧат донатеров §8| §f%s §8▸ §f%s'
+STAFFCHAT_MSG: '§9Чат персоналу §8| §f%s §8▸ §f%s'
+DONATECHAT_MSG: '§bЧат донатерів §8| §f%s §8▸ §f%s'
