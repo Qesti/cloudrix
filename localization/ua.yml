@@ -1,0 +1,364 @@
+LANGUAGE_CHANGE: 'Вы изменили язык на §b%s'
+
+JANUARY: 'Январь'
+FEBRUARY: 'Февраль'
+MARCH: 'Март'
+APRIL: 'Апрель'
+MAY: 'Май'
+JUNE: 'Июнь'
+JULY: 'Июль'
+AUGUST: 'Август'
+SEPTEMBER: 'Сентябрь'
+OCTOBER: 'Октябрь'
+NOVEMBER: 'Ноябрь'
+DECEMBER: 'Декабрь'
+
+PLAYER_NOT_FOUND: 'Ошибка, игрок %s §rне найден'
+PLAYER_NEVER_PLAYED: 'Ошибка, игрок %s никогда прежде не играл на нашем проекте'
+SERVER_NOT_FOUND: 'Сервер §7%s §rне найден'
+ERROR_COMMAND: 'Ошибка, используйте %s'
+
+COOLDOWN: 'Пожалуйста, подождите §b%s %s §rперед следующим использованием'
+
+NO_PERMS: 'У вас недостаточно прав'
+NO_PERMS_GROUP: 'У вас недостаточно прав, приобретите %s §rили выше'
+
+JOIN_PLAYER_LO_LOBBY: ' §b▸ §r%s §rзашёл на сервер'
+
+ENABLED: '§aВключен'
+DISABLED: '§cОтключен'
+
+PLAYERS_1:
+  - 'игрок'
+  - ''
+  - 'а'
+  - 'ов'
+TIME_SECOND_1:
+  - 'секунд'
+  - 'у'
+  - 'ы'
+  - ''
+TIME_SECOND_2:
+  - 'секунд'
+  - 'а'
+  - 'ы'
+  - ''
+TIME_HOURS_1:
+  - 'час'
+  - ''
+  - 'а'
+  - 'ов'
+TIME_MINUTES_1:
+  - 'минут'
+  - 'у'
+  - 'ы'
+  - ''
+TIME_MINUTES_2:
+  - 'минут'
+  - 'а'
+  - 'ы'
+  - ''
+TIME_DAY_1:
+  - 'д'
+  - 'ень'
+  - 'ня'
+  - 'ней'
+REPORTS_1:
+  - 'жалоб'
+  - 'а'
+  - 'ы'
+  - ''
+ATTEMPT_1:
+  - 'попыт'
+  - 'ка'
+  - 'ки'
+  - 'ок'
+
+DISCORD_CONFIRM_PLS: 'Пожалуйста, отправьте это сообщение нашему боту §b%s'
+DISCORD_HAS_KEY: 'В нашей системе уже есть код на подтверждение, ваш код был §b%s'
+DISCORD_ACCOUNT_VERIFIED: 'Вы привязали аккаунт §b%s §rк этой четной записи, и вам выдана роль %s'
+DISCORD_BOT_VERIFIED: 'Ваш аккаунт %s был успешно связан с дискордом %s'
+DISCORD_INVALID_KEY: 'Вы ввели неправильный код, зайдите в игру и перепишите код еще раз.'
+DISCORD_ACCOUNT_UNLINKED: 'Вы успешно отвязали этот аккаунт от §9дискорда'
+
+BOT_STATS_FORMAT: '!stats <ник игрока>'
+BOT_STATS_NAME: 'Информация о игроке %s:'
+BOT_STATS_LIST:
+  - 'Ранг: %s'
+  - 'Монет: %s'
+  - 'Сервер: %s'
+  - ''
+  - 'Наигранно времени: %s'
+
+HELP_DISCORD: 
+  - ' §7/discord link §f- привязать к дискорду'
+  - ' §7/discord unlink §f- отвязать от дискорда'
+DISCORD_NOT_LINKED:
+  - ''
+  - '%s Этот аккаунт не привязан к §9Дискорду'
+  - '%s Используйте §b/discord link§r, чтобы привязать его'
+  - ''
+DISCORD_LINK_ALREADY: 
+  - ''
+  - '%s Этот аккаунт уже привязан к §9Дискорду'
+  - '%s Используйте §b/discord unlink§r, чтобы отвязать его'
+  - ''
+
+CANT_REPORT_YOURSELF: 'Вы не можете подать жалобу на самого себя'
+LITTLE_REASON_REPORT: 'Укажите длиннее причину жалобы!'
+REPORT_SENT: 'Вы отправили жалобу на игрока §7%s §rпо причине: §b%s'
+TOO_MANY_REPORTS: 'На игрока §7%s §rпоступило уже §b%s §r%s!'
+LIMIT_REPORTS: 'У игрока §7%s §rпривышен лимит жалоб!'
+REPORT_PLAYER_STARTED_SPECTATE: 'Вы отправились следить за §7%s'
+YOU_CANT_SENT_REPORT: 'Вы не можете отправить жалобу на данного игрока!'
+
+BOARD_INFORMATION: 'Информация'
+BOARD_ISLAND_INFO: 'Ваш остров'
+BOARD_STATISTIC: 'Статистика'
+BOARD_GROUP: 'Ранг'
+BOARD_SIZE: 'Размер'
+BOARD_MEMBERS: 'Участников'
+BOARD_BALANCE: 'Монет'
+BOARD_KILLS: 'Убийств'
+BOARD_DEATHS: 'Смертей'
+BOARD_ISLAND_NOT_FOUND1: 'Остров не найден'
+BOARD_ISLAND_NOT_FOUND2: 'Используйте - §b/is create'
+BOARD_LEVEL: 'Уровень'
+BOARD_PROGRESS: 'Прогресс'
+BOARD_TOTAL_ONLINE: 'Онлайн проекта'
+
+FRIEND_ADD_FORMAT: '/friend add <ник игрока>'
+FRIEND_REMOVE_FORMAT: '/friend remove <ник игрока>'
+FRIEND_ACCEPT_FORMAT: '/friend accept <ник игрока>'
+FRIEND_DECLINE_FORMAT: '/friend decline <ник игрока>'
+
+FRIEND_YOURSELF_AS_FRIEND: 'Вы не можете отправить заявку в друзья самому себе'
+FRIEND_ALREADY_FRIENDS: 'Вы уже являетесь друзьями!'
+FRIEND_INVITE_SENT: 'Запрос в друзья отправлен игроку %s'
+FRIEND_ALREADY_SENT_REQUEST: 'Вы уже отправляли запрос данному игроку...'
+FRIEND_REQUEST_DISABLED: 'Игрок %s §rотключил запросы на добавление в друзья'
+FRIEND_AVAILABLE_REQUEST: 'У вас есть §b%s §r%s на добавление в друзья!'
+FRIEND_NO_NEW_REQUEST_FROM: 'У вас нет запроса в друзья от игрока %s'
+FRIEND_NO_NEW_REQUEST_FROM: 'У вас нет запроса на добавление в друзья от игрока %s§r. §rИспользуйте запрос §b/friend requests§r, чтобы посмотреть, не затерялась ли там заявку данного игрока..'
+FRIEND_NO_NEW_REQUEST: 'У вас нет новых запросов в друзья!'
+FRIEND_PLAYER_REMOVED: 'Игрок %s §rбыл удален из вашего списка друзей'
+FRIEND_PLAYER_REMOVED_YOU: 'Игрок %s §rудалил Вас из друзей'
+FRIEND_YOU_REJECTED_REQUEST: 'Вы отклонили запрос в друзья от игрока %s'
+FRIENDS_REQUEST_REJECTED: 'Игрок %s §rотклонил запрос в друзья'
+FRIEND_LIMIT_REACHED: 'Вы достигли максимального количества друзей!'
+FRIEND_NOT_ARE_FRIEND: 'Вы не являетесь друзьями с %s'
+FRIEND_NEW_FRIEND: 'Поздравляем! Вы стали друзьями с игроком %s'
+FRIEND_INVITE_TEXT: '%s §rпредлагает вам дружить'
+FRIEND_JOINED: 'Ваш друг %s §rзашел на сервер'
+FRIEND_JOINED_HOVER: '§rНажмите, чтобы написать %s §rсообщение'
+
+HELP_FRIENDS:
+- ' §7/friends add <ник игрока> §f- добавить игрока в друзья'
+- ' §7/friends remove <ник игрока> §f- удалить игрока из друзей'
+- ' §7/friends accept <ник игрока> §f- принять запрос игрока в друзья'
+- ' §7/friends decline <ник игрока> §f- отклонить запрос игрока в друзья'
+- ' §7/friends requests §f- список запросов в друзья'
+- ' §7/friends list §f- список друзей'
+
+SKYBLOCK_SCHEMATICS_NAME: '§bОбщая информация'
+SKYBLOCK_SCHEMATICS_LORE:
+- ''
+- '§7Доступно схематиков: §b%s §8(%s)'
+- '§7Всего схематиков: §b%s'
+
+ACCEPT: '§a[ПРИНЯТЬ]'
+CANCEL: '§c[ОТКЛОНИТЬ]'
+
+ACCEPT_HOVER: '§fНажмите, чтобы принять запрос'
+CANCEL_HOVER: '§fНажмите, чтобы отклонить запрос'
+
+LVL_UP: '§b§l§kX§r §b§lУРОВЕНЬ ПОВЫШЕН §b§l§kX§r'
+NEW_LVL: '§fВы достигли §b%s§f уровня!'
+EXP_TO_NEW_LVL: '§fДо следующего уровня нужно §b%s XP'
+GET_REWARD: '§7Зайдите в профиль, чтобы получить свою награду'
+
+DONT_DUPLICATE_MESSAGE: 'Не повторяйте сообщения!'
+
+CRASH_ERROR_YOU: 'Ошибка, вы не можешь крашнуть самого себя'
+CRASH_PLAYER: 'Вы крашнули игрока %s'
+
+LEVEL_COMMAND_1: 'У вас §b%s §rуровень'
+LEVEL_COMMAND_2: 'До следующего уровня необходимо §b%s XP'
+
+LIST_CMD: 'На сервере §b%s §r%s: %s'
+
+ALREADY_REGISTER: 'Ошибка, вы уже зарегистрированы!'
+REJOIN_TO_BE_LICENSE: 'Перезайдите на сервер с лицензионного аккаунта, чтобы активировать данную опцию'
+LICENSE_OFF: 'Вход через лицензию отключен, надеюсь вы помните свой пароль'
+
+AUTH_HELP:
+ - ' §7/auth register <ник игрока> <пароль> §f- зарегать игрока'
+ - ' §7/auth unregister <ник игрока> §f- снять регистрацию'
+ - ' §7/auth info <ник игрока> §f- информация об игроке'
+ - ' §7/auth resetlicense <ник игрока> §f- отключить вход с лицензии'
+
+AUTH_INFO_PLAYER:
+ - '§bCloudrix §8» §rИнформация об игроке %s§r:'
+ - ' §7- §rПочта: §b%s'
+ - ' §7- §rЛицензия: §b%s'
+ - ' §7- §rПоследний ип: §b%s'
+ - ' §7- §rПароль: §b%s'
+ - ' §7- §rСервер: §b%s'
+
+AUTH_REGISTER_ADMIN_FORMAT: '/auth register <ник игрока> <пароль>'
+AUTH_UNREGISTER_ADMIN_FORMAT: '/auth unregister <ник игрока>'
+AUTH_RESETLICENSE_ADMIN_FORMAT: '/auth resetlicense <ник игрока>'
+AUTH_CHANGEPASSWORD_ADMIN_FORMAT: '/auth changepassword <ник игрока> <пароль>'
+AUTH_INFO_ADMIN_FORMAT: '/auth info <ник игрока>'
+AUTH_REGISTER_ADMIN_DONE: 'Игрок %s §rуспешно зарегистрирован с паролем §7%s'
+
+AUTH_PLEASE: 'Авторизуйтесь - §7/login <пароль>'
+LICENSE_NOT_USED: 'Ошибка, у вас отключен вход с лицензии'
+LICENSE_ALREDY_USED: 'Ошибка, у вас уже включен вход с лицензии'
+LICENSE_LOGIN: 'Вы зашли на сервер используя лицензию'
+YOU_HAVE_JUST_LOGGED_OUT: 'Вы вышли из своего аккаунта'
+REGISTER_PLEASE: 'Зарегистрируйтесь - §7/register <пароль> <повтор пароля>'
+ALREADY_LOGIN: 'Ошибка, вы уже авторизированы!'
+NOT_REGISTERED: 'Ошибка, вы не зарегистрированы!'
+NOT_LOGINED: 'Ошибка, вы не авторизованы!'
+PASSWORD_HAS_BEEN_CHANGED: 'Ваш пароль был успешно изменен'
+WRONG_PASSWORD: 'Вы указали неверный пароль! У вас осталось §b%s §r%s'
+WRONG_OLD_PASSWORD: 'Ошибка, старый пароль введен неправильно!'
+PASSWORD_DONT_MATCH: 'Ошибка, пароли не совпадают!'
+PASSWORD_MIN_LENGHT: 'Минимальная длина пароля §b4 §rсимвола'
+PASSWORD_MAX_LENGHT: 'Максимальная длина пароля  §b16 §rсимволов'
+PASSWORD_INCORRECT_SYMBOL: 'Ошибка, в пароле содержатся запрещенные символы'
+SUCCESSFUL_LOGIN: 'Вы успешно авторизовались!'
+SUCCESSFUL_REGISTRATION: 'Вы успешно зарегистрировались!'
+REGISTERED_PASS_HOVER:
+- '§fВаш пароль - §b%s'
+- ''
+- '§fЗапомни его или сделай'
+- '§fскриншот, чтобы не забыть - §bклавиша F2'
+
+KICK_AUTH:
+- '§bCloudrix'
+- ''
+- '§rСлишком много попыток неправильного'
+- '§rввода пароля. Ваш аккаунт'
+- '§rзаблокирован на несколько минут'
+
+PING: 'Ваш пинг §b%s §rms'
+
+YOU_CANT_CONTACT_HIM: 'Ошибка, игрок %s §rигнорирует вас'
+ALL_CANT_CONTACT_HIM: 'Ошибка, игрок %s §rотключил личные сообщения'
+PLAYERS_IGNORED: 'Теперь игроки не могут отправлять вам личные сообщения.'
+PLAYERS_UNIGNORED: 'Теперь игроки могут отправлять вам личные сообщения.'
+CANT_MESSAGE_YOURSELF: 'Вы не можете написать самому себе'
+CANT_IGNORE_YOURSELF: 'Вы не можете игнорировать самого себя'
+PLAYER_IGNORED: 'Вы добавили игрока %s §rв список игнорируемых. Теперь он не сможет писать Вам'
+PLAYER_NOT_IGNORED: 'Вы удалили игрока %s §rиз списка игнорируемых'
+REPLY_PLAYER_NULL: 'Вам еще не писали личных сообщений'
+SENT_MESSAGE_FORMAT: ' §bЛС §8| §bЯ §8-> §b%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §bЛС §8| §b%s §8-> §bЯ §8| §f%s'
+ONLINE_ALL_PLAYERS_ONLINE: 'Общий онлайн проекта §b%s §r%s'
+
+PAGE_ARROW_RIGHT: '§bСледующая страница'
+PAGE_ARROW_LEFT: '§bПредыдущая страница'
+PAGE_ARROW_LORE:
+- '§7Нажмите для перехода'
+- '§7на %s страницу'
+
+PROFILE_MAIN_GUI_NAME: 'Профиль'
+SETTINGS_GUI_NAME: 'Профиль ▸ Настройки'
+LANGUAGE_GUI_NAME: 'Профиль ▸ Смена языка'
+MODE_SELECTION_GUI_NAME: 'Выбор режима'
+
+ITEMS_INV_SELECTOR_NAME: '§bВыбор режима'
+ITEMS_INV_SELECTOR_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7переключаться между серверами'
+
+ITEMS_INV_PROFILE_NAME: '§bПрофиль'
+ITEMS_INV_PROFILE_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7Иполучить информацию об аккаунте'
+
+ITEMS_INV_PRIVILEGES_NAME: '§bПривилегии'
+ITEMS_INV_PRIVILEGES_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7посмотреть список привилегий'
+
+PROFILE_MAIN_ITEM_INFO_NAME: '§bИнформация о вашем аккаунте'
+PROFILE_MAIN_ITEM_INFO_LORE: 
+- ''
+- '§7Привилегия: %s'
+- ''
+- '§7Уровень: §b%s'
+
+PROFILE_MAIN_ITEM_SETTINGS_NAME: '§bНастройки'
+PROFILE_MAIN_ITEM_SETTINGS_LORE:
+- ''
+- '§7Ваши персональные настройки:'
+- ' §fПолет: %s'
+- ' §fПодсветка: %s'
+- ''
+- '§e▸ Нажмите, чтобы открыть'
+
+LANGUAGE_NOT_SELECTED:
+- ''
+- '§e▸ Нажмите, чтобы выбрать'
+
+LANGUAGE_SELECTED:
+- ''
+- '§aВыбран'
+
+CLICK_TO_ENABLED:
+- '§7Нажмите, чтобы включить'
+CLICK_TO_DISABLED:
+- '§7Нажмите, чтобы отключить'
+
+SETTINGS_FLY_NAME: 'Полет'
+SETTINGS_FLY_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7включить или же отключить'
+- '§7полет'
+
+SETTINGS_GLOWING_NAME: 'Подсветка'
+SETTINGS_GLOWING_LORE:
+- '§7Используйте этот предмет, чтобы'
+- '§7включить или же отключить'
+- '§7подсветку'
+
+ITEMS_GUI_BACK_NAME: '§bНазад'
+ITEMS_GUI_BACK_LORE:
+- '§7Нажмите, чтобы вернуться назад'
+
+ALERT_FORMAT: '/alert <сообщение>'
+STAFFCHAT_FORMAT: '/staffchat <сообщение>'
+DONATECHAT_FORMAT: '/donatechat <сообщение>'
+SUMMON_FORMAT: '/summon <ник игрока>'
+STP_FORMAT: '/stp <ник игрока>'
+SERVER_FORMAT: '/server <сервер>'
+SEND_FORMAT: '/send <ник игрока> <сервер>'
+SENDALL_FORMAT: '/sendall <сервер>'
+REPLY_FORMAT: '/reply <сообщение>'
+MSG_FORMAT: '/msg <ник игрока> <сообщение>'
+FIND_FORMAT: '/find <ник игрока>'
+IGNORE_FORMAT: '/ignore <ник игрока>'
+REPORT_FORMAT: '/report <ник игрока> <причина>'
+CRASH_FORMAT: '/crash <ник игрока>'
+REGISTER_FORMAT: '/register <пароль> <пароль>'
+LOGIN_FORMAT: '/login <пароль>'
+CHANGEPASSWORD_FORMAT: '/changepassword <старый пароль> <новый пароль>'
+
+WHERE_RESULT: 'Вы находитесь на сервере §b%s'
+STP_RESULT: 'Происходит телепортация на сервер %s §7(%s)'
+SUMMON_RESULT: 'Игрок %s §rтелепортирован на ваш сервер'
+FIND_RESULT: 'Игрок %s §rнаходится на сервере §b%s'
+
+SERVER_TO: 'Вы подключены к серверу §b%s'
+ALREADY_ON_SERVER: 'Вы уже находитесь на данном сервере!'
+SENDING_ALL_PLAYERS_TO_SERVER: 'Все §b%s телепортированы на сервер §b%s'
+SENDING_PLAYER_TO_SERVER: 'Игрок %s §rуспешно телепортирован на сервер §b%s'
+YOU_HAVE_BEEN_SENT: '%s §rтелепортировал вас на сервер §b%s'
+
+KICKED_FROM_SERVER: 'Вы были кикнуты с сервера §b%s §rпо причине: %s'
+
+STAFFCHAT_MSG: '§9Чат персонала §8| §f%s §8▸ §f%s'
+DONATECHAT_MSG: '§bЧат донатеров §8| §f%s §8▸ §f%s'
