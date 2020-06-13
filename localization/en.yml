@@ -1,4 +1,4 @@
-LANGUAGE_CHANGE: 'You changed the language to §b%s'
+LANGUAGE_CHANGE: 'Your language has been changed to §b%s'
 
 JANUARY: 'January'
 FEBRUARY: 'February'
@@ -14,16 +14,14 @@ NOVEMBER: 'November'
 DECEMBER: 'December'
 
 PLAYER_NOT_FOUND: 'Error, player %s §rnot found'
-PLAYER_NEVER_PLAYED: 'Error, the player %s has never played on our project before'
+PLAYER_NEVER_PLAYED: 'Error, player %s §rhas never played on our project before'
 SERVER_NOT_FOUND: 'Server §7%s §rnot found'
 ERROR_COMMAND: 'Error, use %s'
 
-COOLDOWN: 'Please wait §b%s %s §rbefore next use'
+COOLDOWN: 'Please wait §b%s §r%s §rbefore next use'
 
-MODE_SELECTION_GUI_NAME: 'Mode selection'
-
-NO_PERMS: 'You do not have permission'
-NO_PERMS_GROUP: 'You do not have permission, purchase %s §ror higher'
+NO_PERMS: 'You don’t have permision'
+NO_PERMS_GROUP: 'You don’t have permision, purchase %s §ror higher'
 
 JOIN_PLAYER_LO_LOBBY: ' §b▸ §r%s §rhas joined to the server'
 
@@ -81,11 +79,11 @@ DISCORD_HAS_KEY: 'Our system already has a confirmation code, your code was §b%
 DISCORD_ACCOUNT_VERIFIED: 'You tethered account §b%s §rto this account and you are given a role %s'
 DISCORD_BOT_VERIFIED: 'Your account %s was successfully linked to discord %s'
 DISCORD_INVALID_KEY: 'You entered the wrong code, go to the game and rewrite the code again.'
-DISCORD_ACCOUNT_UNLINKED: 'You have successfully unlinked this account from §9discorda'
+DISCORD_ACCOUNT_UNLINKED: 'You have successfully unlinked this account from §9discord'
 
 HELP_DISCORD: 
   - ' §7/discord link §f- link to discord'
-  - ' §7/discord unlink §f- to get rid discord'
+  - ' §7/discord unlink §f- unlink to discord'
 DISCORD_NOT_LINKED:
   - ''
   - '%s This account is not linked to §9Discord'
@@ -95,39 +93,53 @@ DISCORD_LINK_ALREADY:
   - ''
   - '%s This account is already linked to §9Discord'
   - '%s Use §b/discord unlink§r, to untie it'
-  - ''
+  - ' §b/discord unlink§r, чтобы отвязать его'
 
-PROFILE_MAIN_GUI_NAME: 'Profile'
-SETTINGS_GUI_NAME: 'Profile ▸ Settings'
+CANT_REPORT_YOURSELF: 'You cant file a complaint against yourself'
+LITTLE_REASON_REPORT: 'Specify a longer reason for the complaint!'
+REPORT_SENT: 'You sent a complaint about a player §7%s §rbecause of: §b%s'
+TOO_MANY_REPORTS: 'On the player §7%s §rreceived already §b%s §r%s!'
+LIMIT_REPORTS: 'From player §7%s §rthe complaint limit is too high!'
+REPORT_PLAYER_STARTED_SPECTATE: 'You went to keep an eye on §7%s'
+YOU_CANT_SENT_REPORT: 'You cant send a complaint about this player!'
 
-YOU_CANT_CONTACT_HIM: 'Error, player %s §rignores you'
-ALL_CANT_CONTACT_HIM: 'Error, player %s §rturned off private messages'
-PLAYERS_IGNORED: 'Players can no longer send you private messages.'
-PLAYERS_UNIGNORED: 'Players can now send you private messages.'
-CANT_MESSAGE_YOURSELF: 'You cannot write to yourself'
-CANT_IGNORE_YOURSELF: 'You cannot ignore yourself'
-PLAYER_IGNORED: 'You added player %s §rto the list of ignored. Now he will not be able to write to you.'
-PLAYER_NOT_IGNORED: 'You have removed player %s §rfrom the ignored list'
-REPLY_PLAYER_NULL: 'You have not yet received private messages'
-SENT_MESSAGE_FORMAT: '§bPM §8 | §bI §8-> §b%s §8 | §f%s'
-RECIEVED_MESSAGE_FORMAT: '§bPM §8 | §b%s §8-> §bI §8 | §f%s'
-ONLINE_ALL_PLAYERS_ONLINE: 'Total online project §b%s §r%s'
+BOARD_INFORMATION: 'Information'
+BOARD_ISLAND_INFO: 'Your island'
+BOARD_STATISTIC: 'Statistic'
+BOARD_GROUP: 'Rank'
+BOARD_SIZE: 'Size'
+BOARD_MEMBERS: 'Members'
+BOARD_BALANCE: 'Money'
+BOARD_KILLS: 'Kills'
+BOARD_DEATHS: 'Deaths'
+BOARD_ISLAND_NOT_FOUND1: 'Island not found'
+BOARD_ISLAND_NOT_FOUND2: 'Use - §b/is create'
+BOARD_LEVEL: 'Level'
+BOARD_PROGRESS: 'Progress'
+BOARD_TOTAL_ONLINE: 'Total online'
+
+ACCEPT: '§a[ACCEPT]'
+CANCEL: '§c[CANCEL]'
+
+ACCEPT_HOVER: '§fClick to accept the request.'
+CANCEL_HOVER: '§fClick to decline request'
 
 LVL_UP: '§b§l§kX§r §b§lLEVEL REACHED §b§l§kX§r'
-NEW_LVL: '§fYou reached §b%s§f level!'
-EXP_TO_NEW_LVL: '§fUp to the next level need §b%s XP'
-GET_REWARD: '§7Go to your profile to get your reward'
+NEW_LVL: '§fYou have reached §b%s§f level!'
+EXP_TO_NEW_LVL: '§fTo the next level you need §b%s XP'
+GET_REWARD: '§7Go to the profile to get your reward'
+
+DONT_DUPLICATE_MESSAGE: 'Dont repeat messages!'
 
 ALREADY_REGISTER: 'Error, you are already registered!'
-AUTH_PLEASE: 'Log in - §7/login <password>'
 REJOIN_TO_BE_LICENSE: 'Reconnect to the server with a license account to activate this option.'
 LICENSE_OFF: 'Login via the license is disabled, I hope you remember your password'
 
 AUTH_HELP:
-  - ' §7/auth register <player name> <password> §f- register a player'
-  - ' §7/auth unregister <player name> §f- unregister a player'
-  - ' §7/auth info <player name> §f- player information'
-  - ' §7/auth resetlicense <player name> §f- disable login from license'
+ - ' §7/auth register <player name> <password> §f- register a player'
+ - ' §7/auth unregister <player name> §f- unregister a player'
+ - ' §7/auth info <player name> §f- player information'
+ - ' §7/auth resetlicense <player name> §f- disable login from license'
 
 AUTH_INFO_PLAYER:
  - '§bCloudrix §8» §rInformation on player %s§r:'
@@ -144,10 +156,11 @@ AUTH_CHANGEPASSWORD_ADMIN_FORMAT: '/auth changepassword <player name> <password>
 AUTH_INFO_ADMIN_FORMAT: '/auth info <player name>'
 AUTH_REGISTER_ADMIN_DONE: 'Player %s §rsuccessfully registered with password §7%s'
 
+AUTH_PLEASE: 'Log in - §7/login <пароль>'
 LICENSE_NOT_USED: 'Error, you have disabled license login'
 LICENSE_ALREDY_USED: 'Error, you already have license login enabled'
-YOU_HAVE_JUST_LOGGED_OUT: 'You have logged out of your account'
 LICENSE_LOGIN: 'You logged in to the server using a license'
+YOU_HAVE_JUST_LOGGED_OUT: 'You have logged out of your account'
 REGISTER_PLEASE: 'Register - §7/register <password> <password>'
 ALREADY_LOGIN: 'Error, you are already authorized!'
 NOT_REGISTERED: 'Error, you are not registered!'
@@ -174,7 +187,31 @@ KICK_AUTH:
 - '§rpassword entry. Your account'
 - '§rblocked for several minutes'
 
-DONT_DUPLICATE_MESSAGE: 'Dont repeat messages!'
+PING: 'Your ping §b%s §rms'
+
+YOU_CANT_CONTACT_HIM: 'Error, player %s §rignore you'
+ALL_CANT_CONTACT_HIM: 'Error, player %s §rdisabled private messages'
+PLAYERS_IGNORED: 'Now players cant send you private messages.'
+PLAYERS_UNIGNORED: 'Players can now send you private messages.'
+CANT_MESSAGE_YOURSELF: 'You cant write to yourself'
+CANT_IGNORE_YOURSELF: 'You cant ignore yourself'
+PLAYER_IGNORED: 'You added a player %s §rto the ignored list. Now he cant write to You'
+PLAYER_NOT_IGNORED: 'You deleted a player %s §rfrom the ignored list'
+REPLY_PLAYER_NULL: 'You havent received any personal messages yet'
+SENT_MESSAGE_FORMAT: ' §bPM §8| §bMe §8-> §b%s §8| §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §bPM §8| §b%s §8-> §bMe §8| §f%s'
+ONLINE_ALL_PLAYERS_ONLINE: 'Total online project §b%s §r%s'
+
+PAGE_ARROW_RIGHT: '§bNext page'
+PAGE_ARROW_LEFT: '§bPrevious page'
+PAGE_ARROW_LORE:
+- '§7Нажмите для перехода'
+- '§7на %s страницу'
+
+PROFILE_MAIN_GUI_NAME: 'Profile'
+LANGUAGE_GUI_NAME: 'Profile ▸ Change language'
+SETTINGS_GUI_NAME: 'Profile ▸ Settings'
+MODE_SELECTION_GUI_NAME: 'Mode selection'
 
 ITEMS_INV_SELECTOR_NAME: '§bMode selection'
 ITEMS_INV_SELECTOR_LORE:
@@ -217,8 +254,10 @@ LANGUAGE_SELECTED:
 
 CLICK_TO_ENABLED:
 - '§7Click to enable'
+
 CLICK_TO_DISABLED:
 - '§7Click to disable'
+
 
 SETTINGS_FLY_NAME: 'Flight'
 SETTINGS_FLY_LORE:
@@ -232,39 +271,9 @@ SETTINGS_GLOWING_LORE:
 - '§7enable or disable'
 - '§7glowing'
 
-BOARD_INFORMATION: 'Information'
-BOARD_STATISTIC: 'Statistic'
-BOARD_GROUP: 'Rank'
-BOARD_BALANCE: 'Money'
-BOARD_LEVEL: 'Level'
-BOARD_PROGRESS: 'Progress'
-BOARD_TOTAL_ONLINE: 'Total online'
-
-PING: 'Your ping §b%s §rms'
-
-YOU_CANT_CONTACT_HIM: 'Error, player %s §rignore you'
-ALL_CANT_CONTACT_HIM: 'Error, player %s §rdisabled private messages'
-PLAYERS_IGNORED: 'Now players cant send you private messages.'
-PLAYERS_UNIGNORED: 'Players can now send you private messages.'
-CANT_MESSAGE_YOURSELF: 'You cant write to yourself'
-CANT_IGNORE_YOURSELF: 'You cant ignore yourself'
-PLAYER_IGNORED: 'You added a player %s §rto the ignored list. Now he cant write to You'
-PLAYER_NOT_IGNORED: 'You deleted a player %s §rfrom the ignored list'
-REPLY_PLAYER_NULL: 'You havent received any personal messages yet'
-SENT_MESSAGE_FORMAT: ' §bPM §8| §bMe §8-> §b%s §8| §f%s'
-RECIEVED_MESSAGE_FORMAT: ' §bPM §8| §b%s §8-> §bMe §8| §f%s'
-
 ITEMS_GUI_BACK_NAME: '§bBack'
 ITEMS_GUI_BACK_LORE:
 - '§7Click to go back'
-
-CANT_REPORT_YOURSELF: 'You cant file a complaint against yourself'
-LITTLE_REASON_REPORT: 'Specify a longer reason for the complaint!'
-REPORT_SENT: 'You sent a complaint about a player §7%s §rbecause of: §b%s'
-TOO_MANY_REPORTS: 'On the player §7%s §rreceived already §b%s §r%s!'
-LIMIT_REPORTS: 'From player §7%s §rthe complaint limit is too high!'
-REPORT_PLAYER_STARTED_SPECTATE: 'You went to keep an eye on §7%s'
-YOU_CANT_SENT_REPORT: 'You cant send a complaint about this player!'
 
 ALERT_FORMAT: '/alert <message>'
 STAFFCHAT_FORMAT: '/staffchat <message>'
@@ -297,5 +306,5 @@ YOU_HAVE_BEEN_SENT: '%s §rhas teleported you to the server §b%s'
 
 KICKED_FROM_SERVER: 'You were kicked from server §b%s §rby cause: %s'
 
-STAFFCHAT_MSG: '§9Staff chat §8| §f%s §8» §f%s'
-DONATECHAT_MSG: '§bDonate chat §8| §f%s §8» §7%s'
+STAFFCHAT_MSG: '§9Staff chat §8| §f%s §8▸ §f%s'
+DONATECHAT_MSG: '§bDonate chat §8| §f%s §8▸ §7%s'
