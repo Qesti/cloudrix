@@ -209,7 +209,7 @@ PAGE_ARROW_LORE:
 - '§7on %s page'
 
 PROFILE_MAIN_GUI_NAME: 'Profile'
-LANGUAGE_GUI_NAME: 'Profile ▸ Change language'
+LANGUAGE_GUI_NAME: 'Profile ▸ Switch language'
 SETTINGS_GUI_NAME: 'Profile ▸ Settings'
 MODE_SELECTION_GUI_NAME: 'Mode selection'
 
@@ -234,6 +234,8 @@ PROFILE_MAIN_ITEM_INFO_LORE:
 - '§7Privilege: %s'
 - ''
 - '§7Level: §b%s'
+
+PROFILE_MAIN_ITEM_LANGUAGE_NAME: '§bSwitch language'
 
 PROFILE_MAIN_ITEM_SETTINGS_NAME: '§bSettings'
 PROFILE_MAIN_ITEM_SETTINGS_LORE:
