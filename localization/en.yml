@@ -93,7 +93,7 @@ DISCORD_LINK_ALREADY:
   - ''
   - '%s This account is already linked to §9Discord'
   - '%s Use §b/discord unlink§r, to untie it'
-  - ' §b/discord unlink§r, чтобы отвязать его'
+  - ''
 
 CANT_REPORT_YOURSELF: 'You cant file a complaint against yourself'
 LITTLE_REASON_REPORT: 'Specify a longer reason for the complaint!'
@@ -156,7 +156,7 @@ AUTH_CHANGEPASSWORD_ADMIN_FORMAT: '/auth changepassword <player name> <password>
 AUTH_INFO_ADMIN_FORMAT: '/auth info <player name>'
 AUTH_REGISTER_ADMIN_DONE: 'Player %s §rsuccessfully registered with password §7%s'
 
-AUTH_PLEASE: 'Log in - §7/login <пароль>'
+AUTH_PLEASE: 'Log in - §7/login <password>'
 LICENSE_NOT_USED: 'Error, you have disabled license login'
 LICENSE_ALREDY_USED: 'Error, you already have license login enabled'
 LICENSE_LOGIN: 'You logged in to the server using a license'
@@ -205,8 +205,8 @@ ONLINE_ALL_PLAYERS_ONLINE: 'Total online project §b%s §r%s'
 PAGE_ARROW_RIGHT: '§bNext page'
 PAGE_ARROW_LEFT: '§bPrevious page'
 PAGE_ARROW_LORE:
-- '§7Нажмите для перехода'
-- '§7на %s страницу'
+- '§7Click to go'
+- '§7on %s page'
 
 PROFILE_MAIN_GUI_NAME: 'Profile'
 LANGUAGE_GUI_NAME: 'Profile ▸ Change language'
